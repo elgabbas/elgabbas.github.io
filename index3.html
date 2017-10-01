@@ -23,6 +23,20 @@ function toggle(elementId) {
 	}
 } 
 </script>
+	  
+<script type="text/javascript">
+function confirmSubmit() {
+var msg;
+msg= "PDFs provided here are for convenience and each download is considered as a specific request to get the paper. These PDFs are for personal and scientific use only and NOT FOR COMMERCIAL PURPOSE. By downloading an article you agree with the present terms. For any other use please click on the DOI link to visit the publisher website.";
+var agree=confirm(msg);
+if (agree)
+return true ;
+else
+return false ;
+}
+</script>
+	  
+	  
 	<script src="https://www.w3counter.com/tracker.js?id=110547"></script>
 	</head>
   <body>
