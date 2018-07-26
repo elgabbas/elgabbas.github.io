@@ -8,22 +8,12 @@
   <loc>https://elgabbas.github.io/</loc>
   <lastmod>2018-07-25T22:35:59+00:00</lastmod>
   <priority>1.00</priority>
-  <image:image>
-  <image:loc>https://elgabbas.github.io/images/Ahmed.png</image:loc>
-  <image:caption>Ahmed El-Gabbas website</image:caption>
-  </image:image>
-
 </url>
 
 <url>
   <loc>https://elgabbas.github.io/Publications/El-Gabbas%20&%20Dormann%202018%20-%20Ecology%20and%20Evolution.pdf</loc>
   <lastmod>2018-07-25T22:35:59+00:00</lastmod>
   <priority>0.80</priority>
-  <image:image>
-  <image:loc>????</image:loc>
-  <image:caption>El-Gabbas & Dormann - Wrong, but useful: regional species distribution models may not be improved by range-wide data under biased sampling</image:caption>
-  </image:image>
-
 </url>
 
 <url>
@@ -31,40 +21,24 @@
   </loc>
   <lastmod>2018-07-25T22:35:59+00:00</lastmod>
   <priority>0.80</priority>
-  <image:image>
-  <image:loc>????</image:loc>
-  <image:caption>El-Gabbas & Dormann - Wrong, but useful: regional species distribution models may not be improved by range-wide data under biased sampling</image:caption>
-  </image:image>
 </url>
 
 <url>
   <loc>https://elgabbas.github.io/Publications/El-Gabbas%20&%20Dormann%202018%20-%20Ecography_SI.pdf</loc>
   <lastmod>2018-07-25T22:35:59+00:00</lastmod>
   <priority>0.80</priority>
-  <image:image>
-  <image:loc>????</image:loc>
-  <image:caption>El-Gabbas & Dormann - Improved species-occurrence predictions in data-poor regions: using large-scale data and bias correction with down-weighted Poisson regression and Maxent</image:caption>
-  </image:image>    
 </url>
 
 <url>
   <loc>https://www.biom.uni-freiburg.de/mitarbeiter/dormann/el-gabbas2018ecography.pdf</loc>
   <lastmod>2018-07-25T22:35:59+00:00</lastmod>
   <priority>0.80</priority>
-  <image:image>
-  <image:loc>????</image:loc>
-  <image:caption>El-Gabbas & Dormann - Improved species-occurrence predictions in data-poor regions: using large-scale data and bias correction with down-weighted Poisson regression and Maxent</image:caption>
-  </image:image>    
 </url>
 
 <url>
   <loc>https://elgabbas.github.io/Publications/El-Gabbas_Gilbert_2016_The%20Desert%20Beauty%20Calopieris%20eulimene%20-%20a%20butterfly%20new%20to%20Egypt.pdf</loc>
   <lastmod>2018-07-25T22:35:59+00:00</lastmod>
   <priority>0.80</priority>
-  <image:image>
-  <image:loc>https://elgabbas.github.io/images/papers/2016%20-%20El-Gabbas%20&%20Gilbert%20-%20The%20Desert%20Beauty%20Calopieris%20eulimene%20-%20a%20butterfly%20new%20to%20Egypt_.jpg</image:loc>
-  <image:caption> El-Gabbas & Gilbert - The Desert Beauty Calopieris eulimene : a butterfly new to Egypt (Insecta: Lepidoptera)</image:caption>
-  </image:image>  
 </url>
 
 
@@ -72,71 +46,42 @@
   <loc>https://elgabbas.github.io/Publications/El-Gabbas_etal_2016_Conserving%20Egypt%20reptiles%20under%20climate%20change.pdf</loc>
   <lastmod>2018-07-25T22:35:59+00:00</lastmod>
   <priority>0.80</priority>
-  <image:image>
-  <image:loc>https://elgabbas.github.io/images/papers/2016%20-%20El-Gabbas%20et%20al.%20-%20Conserving%20Egypt's%20reptiles%20under%20climate%20change_.jpg</image:loc>
-  <image:caption>El-Gabbas et al. - Conserving Egypt’s reptiles under climate change</image:caption>
-  </image:image>
 </url>
 
 <url>
   <loc>https://elgabbas.github.io/Publications/El-Gabbas_etal_2016_Conserving%20Egypt%20reptiles%20under%20climate%20change_supp.pdf</loc>
   <lastmod>2018-07-25T22:35:59+00:00</lastmod>
   <priority>0.80</priority>
-   <image:image>
-  <image:loc>https://elgabbas.github.io/images/papers/2016%20-%20El-Gabbas%20et%20al.%20-%20Conserving%20Egypt's%20reptiles%20under%20climate%20change_.jpg</image:loc>
-  <image:caption>El-Gabbas et al. - Conserving Egypt’s reptiles under climate change</image:caption>
-  </image:image>
 </url>
 
 <url>
   <loc>https://elgabbas.github.io/Publications/Newbold_etal_2010_Testing%20the%20accuracy%20of%20species%20distribution%20models%20using%20species%20records%20from%20a%20new%20field%20survey.pdf</loc>
   <lastmod>2018-07-25T22:35:59+00:00</lastmod>
   <priority>0.80</priority>
-  <image:image>
-  <image:loc>  https://elgabbas.github.io/images/papers/2010 - Newbold et al. - Testing the accuracy of species distribution models using species records from a new field survey_.jpg</image:loc>
-  <image:caption>Newbold et al. - Testing the accuracy of species distribution models using species records from a new field survey</image:caption>
-  </image:image>
 </url>
 
 <url>
   <loc>https://elgabbas.github.io/Publications/Newbold_etal_2009_Effect%20of%20characteristics%20of%20butterfly%20species%20on%20the%20accuracy%20of%20distribution%20models%20in%20an%20arid%20environment.pdf</loc>
   <lastmod>2018-07-25T22:35:59+00:00</lastmod>
   <priority>0.80</priority>
-  <image:image>
-  <image:loc>  https://elgabbas.github.io/images/papers/2009 - Newbold et al. - Effect of characteristics of butterfly species on the accuracy of distribution models in an arid environment_.jpg</image:loc>
-  <image:caption>Newbold et al. - Effect of characteristics of butterfly species on the accuracy of distribution models in an arid environment</image:caption>
-  </image:image>
 </url>
-
 
 <url>
   <loc>https://elgabbas.github.io/Publications/Newbold_etal_2009_Climate-based%20models%20of%20spatial%20patterns%20of%20species%20richness%20in%20Egypt%20butterfly%20and%20mammal%20fauna.pdf</loc>
   <lastmod>2018-07-25T22:35:59+00:00</lastmod>
   <priority>0.80</priority>
-  <image:image>
-  <image:loc>  https://elgabbas.github.io/images/papers/2009%20-%20Newbold%20et%20al.%20-%20Climate-based%20models%20of%20spatial%20patterns%20of%20species%20richness%20in%20Egypt%20butterfly%20and%20mammal%20fauna.jpg</image:loc>
-  <image:caption>Newbold et al. - Climate-based models of spatial patterns of species richness in Egypt’s butterfly and mammal fauna</image:caption>
-  </image:image>
 </url>
 
 <url>
   <loc>https://elgabbas.github.io/Publications/Newbold_etal_2009_Climate-based%20models%20of%20spatial%20patterns%20of%20species%20richness%20in%20Egypt%20butterfly%20and%20mammal%20fauna_supp.pdf</loc>
   <lastmod>2018-07-25T22:35:59+00:00</lastmod>
   <priority>0.80</priority>
-  <image:image>
-  <image:loc>  https://elgabbas.github.io/images/papers/2009%20-%20Newbold%20et%20al.%20-%20Climate-based%20models%20of%20spatial%20patterns%20of%20species%20richness%20in%20Egypt%20butterfly%20and%20mammal%20fauna.jpg</image:loc>
-  <image:caption>Newbold et al. - Climate-based models of spatial patterns of species richness in Egypt’s butterfly and mammal fauna</image:caption>
-  </image:image>
 </url>
 
 <url>
   <loc>https://elgabbas.github.io/Publications/Brading_etal_2009_Biodiversity%20economics%20-%20the%20value%20of%20pollination%20services%20to%20Egypt.pdf</loc>
   <lastmod>2018-07-25T22:35:59+00:00</lastmod>
   <priority>0.80</priority>
-   <image:image>
-  <image:loc>  https://elgabbas.github.io/images/papers/2009%20-%20Brading%20et%20al.%20Biodiversity%20Economics%20-%20The%20Value%20of%20Pollination%20Services%20to%20Egypt_.jpg</image:loc>
-  <image:caption>Brading et al. - Biodiversity economics: the value of pollination services to Egypt</image:caption>
-  </image:image>
 </url>
 
 <url>
