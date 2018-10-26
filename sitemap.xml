@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset
-	xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-	xmlns:xhtml="http://www.w3.org/1999/xhtml"
-	xmlns:xlink="http://www.w3.org/1999/xlink">
-	
+xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+xmlns:xhtml="http://www.w3.org/1999/xhtml"
+xmlns:xlink="http://www.w3.org/1999/xlink">
+
 <url>
   <loc>https://elgabbas.github.io/</loc>
   <lastmod>2018-10-26T10:35:59+00:00</lastmod>
@@ -13,7 +13,7 @@
 <loc>https://elgabbas.github.io/index.html</loc>
   <lastmod>2018-10-26T10:35:59+00:00</lastmod>
   <priority>1.00</priority>
-</url>	
+</url>
 
 <url>
   <loc>https://elgabbas.github.io/Publications/El-Gabbas%20%26%20Dormann%202018%20-%20Ecology%20and%20Evolution.pdf</loc>
@@ -112,7 +112,7 @@
   <lastmod>2018-10-26T10:35:59+00:00</lastmod>
   <priority>1.00</priority>
 </url>
-	
+
 <url>
   <loc>https://elgabbas.github.io/Publications/Newbold_etal_2009_BiodiversityConservation.html</loc>
   <lastmod>2018-10-26T10:35:59+00:00</lastmod>
@@ -131,12 +131,12 @@
   <priority>1.00</priority>
 </url>
 
-	<url>
+<url>
   <loc>https://elgabbas.github.io/Publications/Newbold_etal_2009_Effect%20of%20characteristics%20of%20butterfly%20species%20on%20the%20accuracy%20of%20distribution%20models%20in%20an%20arid%20environment.pdf</loc>
   <lastmod>2018-10-26T10:35:59+00:00</lastmod>
   <priority>1.00</priority>
 </url>
-	
+
 <url>
   <loc>https://elgabbas.github.io/Publications/El-Gabbas_Gilbert_2016_The%20Desert%20Beauty%20Calopieris%20eulimene%20-%20a%20butterfly%20new%20to%20Egypt.pdf</loc>
   <lastmod>2018-10-26T10:35:59+00:00</lastmod>
