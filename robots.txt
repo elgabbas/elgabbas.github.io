@@ -34,6 +34,7 @@ Disallow: /Publications/El-Gabbas&Dormann_2018_Ecology_and_Evolution.pdf
 Disallow: /Publications/El-Gabbas_etal_2016.pdf
 Disallow: /Publications/Newbold_etal_2010_Testing the accuracy of species distribution models using species records from a new field survey.pdf
 Disallow: /Publications/El-Gabbas_Gilbert_2016.pdf
+Disallow: /Publications/Newbold_etal_2009_JournalofBiogeography.pdf
 
 Allow: /
 Allow: /index.html
