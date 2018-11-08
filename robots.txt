@@ -57,4 +57,4 @@ Allow: /Publications/Newbold_etal_2009_JBiogeogr_SI.pdf
 Allow: /Publications/Newbold_etal_2010_Oikos.html
 Allow: /Publications/Newbold_etal_2010_Oikos.pdf
 
-Sitemap: /sitemap.xml
+Sitemap: https://elgabbas.github.io/sitemap.xml
