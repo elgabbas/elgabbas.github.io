@@ -38,24 +38,25 @@ Disallow: https://elgabbas.github.io//Publications/El-Gabbas%20%26%20Dormann%202
 
 
 Allow: /
+Allow: https://elgabbas.github.io/index.html
+Allow: https://elgabbas.github.io/Publications/Brading_etal_2009_EgyJBiology.html
+Allow: https://elgabbas.github.io/Publications/Brading_etal_2009_EgyJBiology.pdf
+Allow: https://elgabbas.github.io/Publications/El-Gabbas_Dormann_2018_EcoEvol.html
+Allow: https://elgabbas.github.io/Publications/El-Gabbas_Dormann_2018_EcoEvol.pdf
+Allow: https://elgabbas.github.io/Publications/El-Gabbas_Dormann_2018_EcoEvol_SI.pdf
+Allow: https://elgabbas.github.io/Publications/El-Gabbas_Dormann_2018_Ecography.html
+Allow: https://elgabbas.github.io/Publications/El-Gabbas_Dormann_2018_Ecography_SI.pdf
+Allow: https://elgabbas.github.io/Publications/El-Gabbas_Gilbert_2016_ZoolMiddleEast.html
+Allow: https://elgabbas.github.io/Publications/El-Gabbas_Gilbert_2016_ZoolMiddleEast.pdf
+Allow: https://elgabbas.github.io/Publications/El-Gabbas_etal_2016_JAridEnvir.html
+Allow: https://elgabbas.github.io/Publications/El-Gabbas_etal_2016_JAridEnvir.pdf
+Allow: https://elgabbas.github.io/Publications/El-Gabbas_etal_2016_JAridEnvir_SI.pdf
+Allow: https://elgabbas.github.io/Publications/Newbold_etal_2009_BiodiversConserv.html
+Allow: https://elgabbas.github.io/Publications/Newbold_etal_2009_BiodiversConserv.pdf
+Allow: https://elgabbas.github.io/Publications/Newbold_etal_2009_JBiogeogr.html
+Allow: https://elgabbas.github.io/Publications/Newbold_etal_2009_JBiogeogr.pdf
+Allow: https://elgabbas.github.io/Publications/Newbold_etal_2009_JBiogeogr_SI.pdf
+Allow: https://elgabbas.github.io/Publications/Newbold_etal_2010_Oikos.html
+Allow: https://elgabbas.github.io/Publications/Newbold_etal_2010_Oikos.pdf
+
 Sitemap: https://elgabbas.github.io/sitemap.xml
-https://elgabbas.github.io/index.html
-https://elgabbas.github.io/Publications/Brading_etal_2009_EgyJBiology.html
-https://elgabbas.github.io/Publications/Brading_etal_2009_EgyJBiology.pdf
-https://elgabbas.github.io/Publications/El-Gabbas_Dormann_2018_EcoEvol.html
-https://elgabbas.github.io/Publications/El-Gabbas_Dormann_2018_EcoEvol.pdf
-https://elgabbas.github.io/Publications/El-Gabbas_Dormann_2018_EcoEvol_SI.pdf
-https://elgabbas.github.io/Publications/El-Gabbas_Dormann_2018_Ecography.html
-https://elgabbas.github.io/Publications/El-Gabbas_Dormann_2018_Ecography_SI.pdf
-https://elgabbas.github.io/Publications/El-Gabbas_Gilbert_2016_ZoolMiddleEast.html
-https://elgabbas.github.io/Publications/El-Gabbas_Gilbert_2016_ZoolMiddleEast.pdf
-https://elgabbas.github.io/Publications/El-Gabbas_etal_2016_JAridEnvir.html
-https://elgabbas.github.io/Publications/El-Gabbas_etal_2016_JAridEnvir.pdf
-https://elgabbas.github.io/Publications/El-Gabbas_etal_2016_JAridEnvir_SI.pdf
-https://elgabbas.github.io/Publications/Newbold_etal_2009_BiodiversConserv.html
-https://elgabbas.github.io/Publications/Newbold_etal_2009_BiodiversConserv.pdf
-https://elgabbas.github.io/Publications/Newbold_etal_2009_JBiogeogr.html
-https://elgabbas.github.io/Publications/Newbold_etal_2009_JBiogeogr.pdf
-https://elgabbas.github.io/Publications/Newbold_etal_2009_JBiogeogr_SI.pdf
-https://elgabbas.github.io/Publications/Newbold_etal_2010_Oikos.html
-https://elgabbas.github.io/Publications/Newbold_etal_2010_Oikos.pdf
