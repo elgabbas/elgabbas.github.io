@@ -20,6 +20,13 @@ Disallow: /Publications/El-Gabbas_etal_2016_Conserving Egypt reptiles under clim
 Disallow: /Publications/Brading_etal_2009.pdf
 Disallow: /Publications/Newbold_etal_2009_JournalofBiogeography_supp.pdf
 Disallow: /Publications/El-Gabbas%20%26%20Dormann%202018%20-%20Ecography_SI.pdf
+Disallow: /Publications/El-Gabbas_etal_2016_JAridEnvironments.html
+Disallow: /Publications/Brading_etal_2009.html
+Disallow: /Publications/El-Gabbas_Gilbert_2016_ZoologyMiddleEast.html
+Disallow: /Publications/Newbold_etal_2009_BiodiversityConservation.html
+Disallow: /Publications/Newbold_etal_2009_Biogeography.html
+Disallow: /index2.html
+Disallow: /index00.html
 
 Allow: /
 Allow: https://elgabbas.github.io/index.html
