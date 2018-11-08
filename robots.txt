@@ -1,22 +1,17 @@
 User-Agent: *
-Disallow: /Publications/El-Gabbas & Dormann 2018 - Ecology and Evolution_SI.pdf
-Disallow: /Publications/El-Gabbas & Dormann 2018 - Ecology and Evolution.pdf
 Disallow: /Publications/El-Gabbas & Dormann 2018 - Ecography_SI.pdf
 Disallow: /Publications/El-Gabbas_etal_2016_Conserving Egypt reptiles under climate change.pdf
 Disallow: /Publications/El-Gabbas_etal_2016_Conserving Egypt reptiles under climate change_supp.pdf
-Disallow: /Publications/El-Gabbas & Dormann 2018 - Ecology and Evolution_SI.pdf
 Disallow: /Publications/Newbold_etal_2009_Effect of characteristics of butterfly species on the accuracy of distribution models in an arid environment.pdf
 Disallow: /Publications/Newbold_etal_2009_Climate-based models of spatial patterns of species richness in Egypt butterfly and mammal fauna.pdf
 Disallow: /Publications/El-Gabbas_Gilbert_2016_The Desert Beauty Calopieris eulimene - a butterfly new to Egypt.pdf
 Disallow: /Publications/Brading_etal_2009_Biodiversity economics - the value of pollination services to Egypt.pdf
 Disallow: /Publications/El-Gabbas %26 Dormann 2018 - Ecology and Evolution.pdf
 Disallow: /Publications/El-Gabbas & Dormann 2018 - Ecology and Evolution.pdf
-Disallow: /Publications/El-Gabbas_etal_2016_Conserving Egypt reptiles under climate change.pdf
 Disallow: /Publications/El-Gabbas %26 Dormann 2018 - Ecology and Evolution_SI.pdf
 Disallow: /Publications/El-Gabbas & Dormann 2018 - Ecology and Evolution_SI.pdf
 Disallow: /Publications/El-Gabbas_Dormann_Ecography_2017.pdf
 Disallow: /Publications/El-Gabbas&Dormann_2017.pdf
-Disallow: /Publications/El-Gabbas_etal_2016_Conserving Egypt reptiles under climate change.pdf
 Disallow: /Publications/Brading_etal_2009.pdf
 Disallow: /Publications/Newbold_etal_2009_JournalofBiogeography_supp.pdf
 Disallow: /Publications/El-Gabbas%20%26%20Dormann%202018%20-%20Ecography_SI.pdf
