@@ -8,3 +8,6 @@ Disallow: /Publications/Newbold_etal_2009_Effect%20of%20characteristics%20of%20b
 Disallow: /Publications/Newbold_etal_2009_Climate-based%20models%20of%20spatial%20patterns%20of%20species%20richness%20in%20Egypt%20butterfly%20and%20mammal%20fauna.pdf
 Disallow: /Publications/El-Gabbas_Gilbert_2016_The%20Desert%20Beauty%20Calopieris%20eulimene%20-%20a%20butterfly%20new%20to%20Egypt.pdf
 Disallow: /Publications/Brading_etal_2009_Biodiversity%20economics%20-%20the%20value%20of%20pollination%20services%20to%20Egypt.pdf
+Disallow: /Publications/El-Gabbas%20%26%20Dormann%202018%20-%20Ecology%20and%20Evolution.pdf
+Disallow: /Publications/El-Gabbas_etal_2016_Conserving%20Egypt%20reptiles%20under%20climate%20change.pdf
+Disallow: /Publications/El-Gabbas%20%26%20Dormann%202018%20-%20Ecology%20and%20Evolution_SI.pdf
