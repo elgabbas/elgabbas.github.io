@@ -18,6 +18,8 @@ Disallow: /Publications/El-Gabbas_Dormann_Ecography_2017.pdf
 Disallow: /Publications/El-Gabbas&Dormann_2017.pdf
 Disallow: /Publications/El-Gabbas_etal_2016_Conserving Egypt reptiles under climate change.pdf
 Disallow: /Publications/Brading_etal_2009.pdf
+Disallow: /Publications/Newbold_etal_2009_JournalofBiogeography_supp.pdf
+Disallow: /Publications/El-Gabbas%20%26%20Dormann%202018%20-%20Ecography_SI.pdf
 
 Allow: /
 Allow: https://elgabbas.github.io/index.html
