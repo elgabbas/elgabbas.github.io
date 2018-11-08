@@ -35,7 +35,9 @@ Disallow: https://elgabbas.github.io/Publications/Brading_etal_2009_Biodiversity
 Disallow: https://elgabbas.github.io/Publications/El-Gabbas%20%26%20Dormann%202018%20-%20Ecology%20and%20Evolution.pdf
 Disallow: https://elgabbas.github.io/Publications/El-Gabbas_etal_2016_Conserving%20Egypt%20reptiles%20under%20climate%20change.pdf
 Disallow: https://elgabbas.github.io/Publications/El-Gabbas%20%26%20Dormann%202018%20-%20Ecology%20and%20Evolution_SI.pdf
-
+Disallow: https://elgabbas.github.io/Publications/Publications/El-Gabbas & Dormann 2018 - Ecology and Evolution_SI.pdf
+Disallow: Publications/El-Gabbas & Dormann 2018 - Ecology and Evolution_SI.pdf
+Disallow: /Publications/El-Gabbas & Dormann 2018 - Ecology and Evolution_SI.pdf
 
 Allow: /
 Allow: https://elgabbas.github.io/index.html
