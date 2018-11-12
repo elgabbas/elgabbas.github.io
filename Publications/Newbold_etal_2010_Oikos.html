@@ -10,7 +10,17 @@
         	}
     </style>
 	<script src="https://www.w3counter.com/tracker.js?id=110547"></script>
-	
+	<script type="text/javascript">
+	function confirmSubmit() {
+		var msg;
+		msg = "PDFs provided here are for convenience and each download is considered as a specific request to get the paper. These PDFs are for personal and scientific use only and NOT FOR COMMERCIAL PURPOSE. By downloading an article you agree with the present terms. For any other use please click on the DOI link to visit the publisher website.";
+		var agree = confirm(msg);
+		if (agree)
+			return true;
+			else
+			return false;
+			}
+	</script>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
     
     <!-- Global site tag (gtag.js) - Google Analytics -->
@@ -62,7 +72,7 @@
                             <span style="color: #ff0000;"><br><strong>Download PDF</strong></span>
                         </h3>
                         <p style="text-align: center;">
-                            <a href="../Publications/Newbold_etal_2010_Oikos.pdf" title="Testing the accuracy of species distribution models using species records from a new field survey">
+                            <a href="../Publications/Newbold_etal_2010_Oikos.pdf" title="Testing the accuracy of species distribution models using species records from a new field survey" onclick="return confirmSubmit()" oncontextmenu="return false;" target="_blank">
 						<img src="../images/pdf.png" alt="Download PDF" width="84" height="84"/>
 					</a>
                         </p>
