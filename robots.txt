@@ -34,7 +34,6 @@ Disallow: /Publications/El-Gabbas_Gilbert_2016.pdf
 Disallow: /Publications/Newbold_etal_2009_JournalofBiogeography.pdf
 Disallow: /Publications/El-Gabbas & Dormann2018 - Ecology and Evolution.pdf
 
-Allow: /
 Allow: /index.html
 Allow: /Publications/Brading_etal_2009_EgyJBiology.html
 Allow: /Publications/Brading_etal_2009_EgyJBiology.pdf
@@ -55,10 +54,5 @@ Allow: /Publications/Newbold_etal_2009_JBiogeogr.pdf
 Allow: /Publications/Newbold_etal_2009_JBiogeogr_SI.pdf
 Allow: /Publications/Newbold_etal_2010_Oikos.html
 Allow: /Publications/Newbold_etal_2010_Oikos.pdf
-Allow: *.js
-Allow: *.css
-Allow: *.js
-Allow: *.png
-Allow: *.jpeg
 
 Sitemap: https://elgabbas.github.io/sitemap.xml
