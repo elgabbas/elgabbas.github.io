@@ -55,5 +55,6 @@ Allow: /Publications/Newbold_etal_2009_JBiogeogr.pdf
 Allow: /Publications/Newbold_etal_2009_JBiogeogr_SI.pdf
 Allow: /Publications/Newbold_etal_2010_Oikos.html
 Allow: /Publications/Newbold_etal_2010_Oikos.pdf
+Allow: /Publications/El-Gabbas_Dormann_2018_Ecography.pdf
 
 Sitemap: https://elgabbas.github.io/sitemap.xml
