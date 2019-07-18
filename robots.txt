@@ -37,6 +37,7 @@ Disallow: /Publications/El-Gabbas & Dormann2018 - Ecology and Evolution.pdf
 Allow: /index.html
 Allow: /Publications/Brading_etal_2009_EgyJBiology.html
 Allow: /Publications/Brading_etal_2009_EgyJBiology.pdf
+Allow: /Publications/El-Gabbas_2012_MRes_thesis.pdf
 Allow: /Publications/El-Gabbas_Dormann_2018_EcoEvol.html
 Allow: /Publications/El-Gabbas_Dormann_2018_EcoEvol.pdf
 Allow: /Publications/El-Gabbas_Dormann_2018_EcoEvol_SI.pdf
