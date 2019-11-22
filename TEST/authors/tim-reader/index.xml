@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tim Reader | Ahmed El-Gabbas</title>
+    <link>/authors/tim-reader/</link>
+      <atom:link href="/authors/tim-reader/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tim Reader</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018 - 2019 Ahmed El-Gabbas</copyright><lastBuildDate>Fri, 01 Jan 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Tim Reader</title>
+      <link>/authors/tim-reader/</link>
+    </image>
+    
+    <item>
+      <title>Testing the accuracy of species distribution models using species records from a new field survey</title>
+      <link>/publication/2010_newbold_etal_oikos/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/2010_newbold_etal_oikos/</guid>
+      <description>&lt;p align=&#34;center&#34;&gt;
+&lt;b&gt;Download PDF&lt;/b&gt;&lt;br&gt;&lt;a href=&#34;/Publications/Newbold_etal_2010_Oikos.pdf&#34; onclick=&#34;return confirmSubmit()&#34; oncontextmenu=&#34;return false;&#34; target=&#34;_blank&#34; title=&#34;Download PDF of the paper&#34;&gt;&lt;img src=&#34;/img/PDF.png&#34; width=&#34;100&#34; height=&#34;100&#34;&gt;&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;div style=&#34;display: none&#34;&gt;
+Tim Newbold, Tom Reader, Ahmed El-Gabbas, Wiebke Berg, Wael M. Shohdi, Samy Zalat, Sherif Baha El Din &amp; Francis Gilbert 2010&lt;br&gt;
+Testing the accuracy of species distribution models using species records from a new field survey&lt;br&gt;
+Oikos, 119(8): 1326–1334&lt;br&gt;
+10.1111/j.1600-0706.2009.18295.x&lt;br&gt;
+Species distribution models are a very popular tool in ecology and biogeography and have great potential to help direct conservation efforts. Models are traditionally tested by using half the original species records to build the model and half to
+evaluate it. However, this can lead to overly optimistic estimates of model accuracy, particularly when there are systematic biases in the data. It is better to evaluate models using independent data. This study used independent species records
+from a new to survey to provide a more rigorous evaluation of distribution-model accuracy. Distribution models were built for reptile, amphibian, butterfly and mammal species. The accuracy of these models was evaluated using the traditional
+approach of partitioning the original species records into model-building and model-evaluating datasets, and using independent records collected during a new field survey of 21 previously unvisited sites in diverse habitat types. We tested whether
+variation in distribution-model accuracy among species could be explained by species detectability, range size, number of records used to build the models, and body size. Estimates of accuracy derived using the new species records correlated
+positively with estimates generated using the traditional data-partitioning approach, but were on average 22% lower. Model accuracy was negatively related to range size and number of records used to build the models, and positively related to the
+body size of butterflies. There was no clear relationship between species detectability and model accuracy. The field data generally validated the species distribution models. However, there was considerable variation in model accuracy among
+species, some of which could be explained by the characteristics of species. &lt;br&gt;
+Species distribution models have great potential as tools for conservation. They relate a set of records of the occurrence of a species to a set of variables describing relevant aspects of the environment in order to predict its distribution over
+the whole of the study area in question (reviewed by Wintle et al. 2005). &lt;br&gt;
+There is a vast amount of data on the distributions of species in museums, natural history collections and the literature (Graham et al. 2004). However, there are several limitations associated with data from these sources. First, records are
+often accompanied by an imprecise description of the locality from which they were taken. This translates into poor locational accuracy when the record is georeferenced (i.e. when it is assigned geographical coordinates, Graham et al. 2004). The
+effect of locational error in the species records on the accuracy of distributional models is generally low, but varies among different types of model (Graham et al. 2008). &lt;br&gt;
+Second, museum data are often biased. Such bias could be: 1) spatial – towards areas to which it is easy for scientists to gain access, or towards areas that are biologically interesting; 2) temporal – towards time periods when collecting was more
+frequent; or 3) taxonomic – towards species that are easy to detect or that are of more interest to the collectors (Soberón 1999, Hijmans et al. 2000, Reddy and Dávalos 2003). &lt;br&gt;
+The third major problem with data from museums and literature sources is that there are rarely data documenting places where the species is known not to exist (absence records) (Graham et al. 2004). There are modelling techniques designed to be
+used with datasets that consist only of presence records, such as climate envelope approaches and techniques that model the presences with reference to the background environmental conditions (Wintle et al. 2005). However, several of the most
+popular modelling approaches, such as generalized linear models (GLMs) and generalized additive models (GAMs), can only be used with both presence and absence data. A commonly-used solution to this problem is to generate random ‘pseudo-absence’
+data in grid cells without presence records (Ferrier and Watson 1997). One obvious problem with using pseudo–absence data is that some absences are likely to be found in areas that are suitable for, and even inhabited by, the species (Graham et
+al. 2004). Of course, recorded absence of species may also prove to be erroneous. Many species are very difficult to detect and it may take many visits to a site before species absence can be inferred with any degree of confidence (Kéry 2002,
+MacKenzie et al. 2002). Given accurate species records from a well-designed survey, models built with only presence records have been shown to perform as well as models built with both presences and absences (Wintle et al. 2005) and may present
+the safest option when there is uncertainty over the reliability of absence data. &lt;br&gt;
+Data from museums, collections and the literature are too valuable a source of data to ignore. However, given the potential biases and inaccuracies associated with them, it is particularly important to test the accuracy of model predictions. The
+simplest way to test the accuracy of a species distribution model is to test its ability to predict correctly the data used to build it in the first place (Fielding and Bell 1997). This is effectively a measure of goodness-of-fit of the model. The
+main drawback of this approach is that a model can fit the data used to build it very well without capturing the species’ real response to the environmental variables (a phenomenon known as overfitting), and this method of model evaluation tends
+to lead to over-optimistic measures of model accuracy (Chatfield 1995). A better approach is to partition the data in some way, building the model with part of the dataset and evaluating it against the remainder (Fielding and Bell 1997). This is
+the approach taken by most studies (Hernandez et al. 2008, Franklin et al. 2009). A problem with data-partitioning approaches is that if the same bias in the species data is present in all partitions, then the model may be biased and the estimate
+of model accuracy inflated (Chatfield 1995). Ideally models should be evaluated using new, independent data on species occurrence (Chatfield 1995). With the wide availability of global positioning systems (GPS), records can be assigned
+geographical coordinates on collection, eliminating the problem of locational errors. Bias should be reduced as much as possible, particularly bias in environmental space (Wintle et al. 2005). Few studies have used independent data to validate
+models because collecting such data can be impractical, time-consuming and costly (Wintle et al. 2005, but see Loyn et al. 2001, Elith 2002, Ferrier et al. 2002, Elith et al. 2006, Williams et al. 2009). To the best of our knowledge only one
+study, on Mexican birds (Feria and Peterson 2002), has used new, independent records to test the accuracy of distribution models based on museum data. Given the potential limitations with records from museums, it is particularly important that the
+accuracy of models based on them are evaluated rigorously. We used independent records to test the accuracy of distribution models for a variety of species in three separate taxonomic groups. &lt;br&gt;
+Even if one is confident of a lack of bias in the data, different kinds of species may be more or less suited to the model-building process. There have been attempts to assess differences among species in the accuracy of their distribution models
+(Kadmon et al. 2003, Berg et al. 2004, Seoane et al. 2005, Hernandez et al. 2006, Newbold et al. 2009b). These studies have often found that species that are more narrowly distributed produce more accurate distribution models, possibly because
+small-ranged species have better-defined habitat requirements and tend to inhabit a greater proportion of the suitable environment, or because in species with larger ranges, populations show local adaptation to the environment in different areas
+(Stockwell and Peterson 2002, Brotons et al. 2004, Segurado and Araújo 2004, Hernandez et al. 2006, Newbold et al. 2009b). On the other hand, effects of range size could be a statistical artefact associated with the use of pseudo-absence data
+(Lobo et al. 2008). &lt;br&gt;
+Species that are easier to detect are likely to have more complete occurrence data. This may result in more accurate distribution models for these species (Seoane et al. 2005). For example, Pöyry et al. (2008) showed that the accuracy of
+distribution models for butterflies was positively related to wingspan, possibly owing to differences in detectability during surveys. &lt;br&gt;
+In this study, we modelled the distributions of Egyptian butterfly, mammal, reptile and amphibian species using records from museums, collections and the literature, presenting a rare test of their accuracy using new, independently-collected
+survey data as well as a test using the more traditional data-partitioning method. It was not possible to collect new species records systematically or randomly in the time available because of the remoteness and inaccessibility of many parts of
+Egypt, but the records were completely independent of the data used to build the models, were designed to be representative of as many habitat types as possible, given the constraints imposed by the logistics of sampling in a remote and hostile
+environment, and were georeferenced using a GPS and so had negligible locational error. We used the new survey data, which contain both presence and absence records, to test whether a negative effect of species range size on model accuracy
+persists in the absence of statistical artefacts. We also tested whether model accuracy is related to species detectability and body size (of butterflies). &lt;br&gt;
+Data and methods &lt;br&gt;
+Distribution models were compiled for Egyptian butterfly, mammal, reptile and amphibian species using Maxent ver. 3.1.0 (Phillips et al. 2006). Maxent uses a machine-learning process to produce a model where the frequency distribution of modelled
+probabilities is as close to uniform as possible, with the constraint that the expected value of each environmental variable (the sum, across all grid cells, of the product of the probability of occurrence and the value of the environmental
+variable) must equal the mean value at the presence points (the empirical average). To prevent overfitting a process called regularization is adopted, relaxing this constraint such that the expected value of each environmental variable may fall
+within a defined margin around the empirical average (Dudík et al. 2004). Maxent is particularly suited to use with museum data, because it designed to deal with datasets consisting only of presence records. The environmental conditions in a
+sample of cells from throughout the whole study area is used for comparison with the environmental conditions in cells with species presence records in. &lt;br&gt;
+The species data used to build the models (hereafter referred to as the original species records) were taken from the database complied as part of Egypt&#39;s BioMAP project ( www.biomapegypt.org for more details). Records were taken from museum and
+personal collections, and from the literature (Osborn and Helmy 1980, Larsen 1990). The identification of all extant specimens was checked by experts (Samy Zalat, Sherif Baha-El-Din, Francis Gilbert, Dr Mohammad Basuony, Al Azhar Univ., Cairo),
+according to the latest taxonomic opinion (Larsen 1990, Wilson and Reeder 2005, Baha El Din 2006). All records were mapped as accurately as possible using a gazetteer developed by the BioMAP project. We estimated the maximum error associated with
+each sampling location using the point radius method (Wieczorek et al. 2004) and removed records from highly inaccurate localities. Given positive spatial autocorrelation in the environmental variables, a moderate degree of inaccuracy in the
+location of species records probably does not have a large effect on model accuracy (Graham et al. 2008). The number of records available for each species ranged from 10 to 412 (median = 58); most records were made in the second half of the 20th
+century (Newbold et al. 2009a). &lt;br&gt;
+The environmental variables used in the models consisted of climate and habitat variables. The climate variables were taken from the WorldClim ver. 1.4 dataset (Hijmans et al. 2005). This dataset includes 20 variables describing altitude,
+temperature and precipitation (Supplementary material Appendix 1). The habitat variable used was a geological habitat classification with 11 categories (sea, littoral coastal land, cultivated land, sand dune, wadi, metamorphic rock, igneous rock,
+gravel, serir sand sheet, sabkha and sedimentary rock). This map was compiled using satellite imagery, and was verified by extensive ground-truthing (A. Hassan unpubl.). Using 20 environmental variables might cause the models to be overfitted
+(Chatfield 1995). However, the Maxent model uses a process called regularization to reduce the chance of overfitting and previous studies have shown that it can produce accurate models with small numbers of species records and similar numbers of
+environmental variables to our study (Wisz et al. 2008). To test whether this was the case in our study, we built a separate set of distribution models using habitat and three principal component axes based on the climatic variables. Models
+developed using the two sets of variables were very similar (at 5000 random points in Egypt modelled probabilities of occurrence correlated positively – Spearman&#39;s rank correlation: mean rs= 0.798 ± 0.02) and were not significantly different in
+accuracy (Wilcoxon&#39;s matched-pairs test: p = 0.122). &lt;br&gt;
+To create a second set of species data (hereafter referred to as the independent species records) with which to evaluate the distribution models, we conducted a survey of butterflies, mammals, reptiles and amphibians in Egypt in the summers
+(May–July) of 2007 and 2008. The reptile, amphibian and mammal species surveyed are active throughout the summer months. The flight periods of all of the butterfly species surveyed encompassed the whole period of sampling. The new records were not
+used to build distribution models, only to evaluate them. The new data were biased towards roads. The terrain in Egypt makes it almost impossible to sample completely randomly, with many areas situated hundreds of kilometres from the nearest road.
+We minimized bias in environmental space as much as possible by selecting sites that covered: (1) as large a geographical area as possible; and (2) as many different habitat types as possible, defined using a geological habitat map (A. Hassan
+unpubl.) and a vegetation land cover map, derived using data from the Advanced Very High Resolution Radiometer (Hansen et al. 2000). At each site we performed four 1-km walking transects at different times of day (early morning, late morning, late
+afternoon, evening), paced to take approximately an hour and a half each. At the same time, some members of the expedition actively searched for species in the area surrounding the start point of the transect. Transects were located such that they
+sampled all the major habitat types present at each site. A species was recorded as being present if it was observed at least once, and absent otherwise. Twenty-one sites were surveyed in this way (Fig. 1, Supplementary material Appendix 1). In
+addition to records from the fully-surveyed sites, we also included incidental observations of species from 13 other localities (Fig. 1, Supplementary material Appendix 1). Data from these sites consisted of records of species presence only,
+because we did not carry out replicate transects at these sites and thus could not infer species absence. Almost all new sites were situated at least 1 km from sites with records in the original dataset (Fig. 1). All fully-surveyed sites were at
+least three km from the nearest other site, and all but four were at least ten km from the nearest other site. Including locations with incidental records, distances among sites were sometimes much smaller; four sites were less than one km from
+the nearest other site and 15 sites were less than ten km from the nearest site. Butterflies were sampled by visual searching and sweep netting, reptiles and amphibians by visual scans and active searches, and mammals mainly by checking for tracks
+and signs, although sightings of species were also noted. Sixty species were recorded in total, 34 of which were recorded at least twice: 20 reptiles and amphibians, ten butterflies and four mammals (Supplementary material Appendix 1). &lt;br&gt;
+Sites with reptile, amphibian, butterfly and mammal records in the BioMAP database (grey crosses and asterisks), and sites that were sampled during the new survey (black triangles). &lt;br&gt;
+Imperfect detectability of species is likely to have an impact on the reliability of data describing species absence from surveys such as ours (Kéry 2002, MacKenzie et al. 2002). We modelled the detectability of species in our new survey data,
+following MacKenzie et al. (2002). The four transects undertaken at each site were treated as independent visits (n1, n2, n3, and n4). The likelihood (L) of obtaining a particular pattern of occurrence for a species across all four transects at
+all fully-surveyed sites is: &lt;br&gt;
+where ψ is the probability that a species occurs at a given site, p is the probability that the species is detected during one transect given that it occurs at the site, t is the transect number, n. is the number of sites where the species was
+recorded in at least one transect, and N is the total number of sites visited (MacKenzie et al. 2002). The parameters p and ψ were estimated using a maximum likelihood approach with the package ‘mle’ in R (R Development Core Team 2004). Upper and
+lower bounds of 0.0001 and 0.9999 respectively were set for both parameters. The model has been shown to be reasonably robust to sample sizes as small as those encountered here (Wintle et al. 2004). The model assumes that occurrence and detection
+probabilities are constant across sites, which is almost certainly not true. The modelled probabilities should therefore be considered rough estimates to gauge the reliability of the occurrence data and not as accurate estimates of the
+probabilities of detection and occurrence. &lt;br&gt;
+The distribution models were evaluated using three different sets of data. First, using partitioned data, whereby the original species records were divided randomly before modelling – half for model building and half for model evaluation. Models
+were evaluated using these reserved presence records and 2500 pseudo-absences (Ferrier and Watson 1997), drawn randomly from cells that lacked a record of the species in question. Second, using the independent species presence records and 2500
+pseudo-absences, generated as before. Third, using the independent presence and absence records. Model accuracy was measured using the AUC statistic (Fielding and Bell 1997). The receiver operating characteristic curve is a plot of the proportion
+of presence records correctly predicted present (sensitivity) against the proportion of absence records incorrectly predicted present (commission) for a range of thresholds used to divide predicted presence from predicted absence. The area under
+the curve (AUC) measures the ability of the model to discriminate recorded presences from recorded absences (Fielding and Bell 1997). An AUC value of 1 indicates perfect discrimination and an AUC value of 0.5 indicates a model that is no better
+than random. Estimated accuracy according to AUC values was compared among the three approaches. We correlated estimates of accuracy made by partitioning the original species records with estimates made using the independent records, to test
+whether models were ranked similarly. To provide an alternative measure of accuracy to the AUC statistic, the models were also tested against the independent presence and absence records using the slope of the relationship between model predicted
+probability and species occurrence (presence or absence), fitted using a generalized linear model with binomial errors (McCullagh and Nelder 1989). &lt;br&gt;
+We tested a number of factors that may explain variation in model accuracy (measured using the independent presence and absence records) among species: (1) estimated species detectability (2) range size in Egypt; (3) number of presence records
+used to build the models; and (4) taxonomic group (mammals, butterflies, or reptiles and amphibians). The proportion of Egypt&#39;s land area predicted by the distribution models to be occupied was used as an index of range size. To calculate this, we
+converted the continuous prediction of probability of occurrence into a binary prediction of presence or absence, by assigning a threshold probability of occurrence to the model for each species. The threshold was set such that 95% of the presence
+records used to build the models were predicted correctly as being present (Pearson et al. 2004). &lt;br&gt;
+The effect of estimated species detectability on distribution-model accuracy was tested by a simple correlation test, because detectability could not be estimated for species that were not recorded during the walking transects. As an additional
+test of the effect of estimated species detectability, we also correlated butterfly wingspans (wing-tip to wing-tip; Gilbert and Zalat 2007) with model accuracy. The remaining factors were tested using generalized linear models with normal errors.
+AUC values were entered as the dependent variable, taxonomic group as a factor, and predicted range size and number of presence records used to build the model as covariates. We used a model selection method based on the approach recommended by
+Burnham and Anderson (2002). We built a global model with all terms, and candidate models with every combination of terms. AIC scores were extracted for each model and the difference between a model&#39;s AIC value and the lowest value of all models
+(the AIC difference, Δi) was calculated. Model weight was calculated using the following formula (Burnham and Anderson 2002):&lt;br&gt;
+where Δi is the AIC difference of the model in question and Δrs are the AIC differences of the other models. The relative importance of each variable was assessed by summing the AIC weights of all candidate models containing it (Burnham and
+Anderson 2002), hereafter referred to as ‘sum of AIC weights’. &lt;br&gt;
+Results &lt;br&gt;
+Estimates of the probability of detecting a species in a single transect (p) ranged from less than 0.001 to approximately 0.75 (Table 1). For butterflies, the migratory species Vanessa atalanta and Vanessa cardui, and the skipper Pelopidas thrax
+had low probabilities of detection, but most species were relatively easily detected. Mammals generally had much lower probabilities of detection than butterflies; the gazelle Gazella dorcas was an exception because its presence could be reliably
+ascertained by tracks and faeces. Reptiles and amphibians were highly variable in their estimated detectability. The snakes and the chamaeleon Chamaeleo africanus had very low probabilities of detection, while the lizards, skinks and amphibians
+generally had higher probabilities. Estimates of the probability of site occupancy (ψ), which is equivalent to the proportion of sites predicted to be occupied, were consistent with estimates of range size derived from the species distribution
+models (Spearman&#39;s rank correlation test: rs= 0.453, n = 23, p = 0.03). &lt;br&gt;
+Table 1. Estimated probabilities of occurrence (ψ) and detection, given occurrence (p) for species recorded in the walking transects at the fully-surveyed sites. Each transect was treated as an independent sampling event. ψ and p were estimated
+using a maximum likelihood approach (MacKenzie et al. 2002), assuming that both probabilities are constant across sites. &lt;br&gt;
+Acanthodactylus boskianus &lt;br&gt; Acanthodactylus scutellatus
+Cerastes cerastes &lt;br&gt; Chamaeleo africanus &lt;br&gt; Malpolon monspessulanus &lt;br&gt; Mesalina guttulata &lt;br&gt; Natrix tessellata &lt;br&gt; Ptychadena mascareniensis &lt;br&gt; Rana bedriagae &lt;br&gt; Sphenops sepsoides &lt;br&gt; Trapelus mutabilis &lt;br&gt; Butterflies &lt;br&gt; Colias
+croceus &lt;br&gt; Danaus chrysippus &lt;br&gt; Lampides boeticus &lt;br&gt; Leptotes pirithous &lt;br&gt; Pelopidas thrax &lt;br&gt; Pieris rapae &lt;br&gt; Pontia glauconome &lt;br&gt; Vanessa atalanta &lt;br&gt; Vanessa cardui &lt;br&gt; Zizeeria karsandra &lt;br&gt; Mammals &lt;br&gt; Capra nubiana &lt;br&gt;
+Cazella dorcas &lt;br&gt; Lepus capensis
+Model accuracy estimates made by partitioning the original species records into model-building and model-evaluation datasets, were high and significantly better than random (one sample t-test: t = 22.0, DF = 33, p 0.001). AUC values ranged from
+0.666 to 0.975, with an average of 0.845 ± 0.016. Accuracy estimates made using the independent presence records (i.e. records from the new survey) and pseudo-absences were also high and significantly better than random (t = 16.7, DF = 33, p
+0.001). AUC values ranged from 0.485 to 1.000, with an average of 0.875 ± 0.022. Finally, accuracy estimates generated using the independent presences and absences were reasonably high and significantly better than random (t = 4.03, DF= 33, p
+0.001), although lower than estimates made using pseudo-absences. AUC values ranged from 0.219 to 1.000, with an average of 0.655 ± 0.039 (for examples of the distribution models, Fig. 2). Testing the accuracy of models against the independent
+records, using the slope of the relationship between model predicted probability of occurrence and observed occurrence (presence or absence), also showed the predictions to be reasonably accurate. The relationships were positive for 26/34 species,
+although only nine were significantly positive (GLM: p 0.05). Slope coefficients ranged from –5.67 to 22.13; the average coefficient was significantly greater than zero (one sample t-test: t = 3.16, DF = 32, p = 0.003). Estimates of accuracy made
+using subsets of the original presence records correlated significantly and positively with estimates made using the independent records (Spearman&#39;s rank correlation: rs= 0.544, n = 34, p = 0.001; Fig. 3). &lt;br&gt;
+Predicted distributions and independent occurrence records for two species: (a) the Montpellier snake Malpolon monspessulanus, which had the most accurate distribution model; and (b) the cape hare Lepus capensis, which had the least accurate
+distribution model. Distribution models were built with Maxent ver. 3.1.0 using records from the BioMAP database and variables describing climate and habitat. Light shading indicates areas with a high probability of occurrence, while dark shading
+indicates a low probability of occurrence. The independent occurrence records (+= presence; O = absence) were collected during a new field survey of 21 sites in the summers (May–July) of 2007 and 2008; these records were used to evaluate the
+distribution models. &lt;br&gt;
+The relationship, for 34 species of Egyptian mammal, butterfly, reptile and amphibian species, between distribution-model accuracy estimated using independent species presence and absence records, and distribution-model accuracy estimated using
+partitioned data, whereby the original species presence records were randomly divided in half for model building and model evaluation respectively. Accuracy was estimated using the AUC statistic (Fielding and Bell 1997). &lt;br&gt;
+Model accuracy showed no clear relationship with estimated species detectability (Spearman&#39;s rank correlation: rs=–0.294, n = 25, p = 0.154). However, for butterfly species, wingspan correlated positively with model accuracy (Pearson s correlation
+coefficient: r = 0.652 n = 10, p = 0.041; Fig. 4). Model accuracy was negatively related to the predicted range size of species within Egypt (GLM: sum of AIC weights = 0.952; Table 2, Fig. 5a). Surprisingly, there was also a strong negative effect
+of the number of species presence records used to build the models on the accuracy of predictions (sum of AIC weights = 0.991; Table 2, Fig. 5b). There was little support for an effect of taxonomic group on the accuracy of distribution models (sum
+of AIC weights = 0.172; Table 2). &lt;br&gt;
+Table 2. Results from a set of generalized linear models with a normal error distribution testing factors affecting variation in the accuracy of species distribution models among species. Factors tested were predicted range size in Egypt (R),
+number of presence records used to build the models (S), and taxonomic group (T). Candidate models were built with every combination of terms. These models were compared using AIC and the difference between the AIC of a model and the minimum AIC
+of all models. Model weights were calculated following Burnham and Anderson (2002). &lt;br&gt;
+For 34 species of Egyptian reptiles, amphibians, butter-flies and mammals: (a) the relationship between range size, estimated as the proportion of grid cells in Egypt predicted occupied, and the accuracy of distribution models estimated using
+independent species records from a new field survey; (b) the relationship between the number of presence records used to build the distribution model and model accuracy, estimated using independent species records. Model accuracy was measured
+using the AUC statistic (Fielding and Bell 1997). &lt;br&gt;
+Discussion &lt;br&gt;
+Overall, the distribution models built in this study were shown to be significantly better than random when tested against independent data collected by surveying a diverse range of habitats in Egypt. This strongly suggests that data from museums,
+natural history collections and literature can be used to make useful predictions about species’ ranges. Several studies have reached a similar conclusion (Peterson et al. 2002, Raxworthy et al. 2003), but it is rare that models are tested against
+independent evaluation data (but see Loyn et al. 2001, Elith 2002, Ferrier et al. 2002, Elith et al. 2006). Uncertainties and biases will be more prevalent in models built using museum and literature records (Graham et al. 2004), making evaluation
+with independent data more important. Some authors have experimented with using species records from separate geographical areas (Peterson and Shaw 2003, Randin et al. 2006, Heikkinen et al. 2007) or time periods (Raxworthy et al. 2003) to
+evaluate models. However, predictions extrapolated outside the environmental conditions encompassed by the data that were used to build the model are likely to be inaccurate in the new areas even if they are accurate in the area for which they
+were built. The best approach is to collect new, independent data inside the study area for which the models were developed reducing bias as much as possible, particularly bias in environmental space (Wintle et al. 2005). &lt;br&gt;
+The reliability of data on species absence probably depends on the relative detectability of the taxa in question (MacKenzie et al. 2002). There was substantial variation in estimated detection probability among species in the new survey. The
+results of the maximum likelihood model were consistent with our expectations. First, the predicted proportion of sites occupied correlated positively with predicted range size according to the distribution models. Second, detection probabilities
+were very low for elusive species, such as the snakes, and for rare migrants, such as the red admiral butterfly Vanessa atalanta, and higher for conspicuous and more abundant species, including some of the lizards and most of the butterflies. The
+accuracy of species distribution models did not appear to be affected by detection probability suggesting that, even in small-scale surveys with relatively few visits to each site, imperfect detection of species may not be a major problem. On the
+other hand, the accuracy of distribution models for butterfly species was positively correlated with body size, which was used as a surrogate for detectability. It is possible that our maximum likelihood-based estimates of detection probability
+were inaccurate; for instance, one of the major assumptions of the maximum likelihood model that we used is that occurrence and detection probabilities are constant across sites (MacKenzie et al. 2002), which is very unlikely to be true. However,
+very abundant and easily detectable species, such as the long-tailed blue butterfly Lampides boeticus and Bosk&#39;s lizard Acanthodactylus boskianus, had high estimated detection probabilities and inaccurate distribution models, whereas species that
+are difficult to detect, such as Montpellier&#39;s snake Malpolon monspessulanus, had low estimated detectability but very accurate distribution models. An alternative explanation for the relationship between butterfly wingspan and distribution-model
+accuracy is that larger butterflies are more mobile and able to reach a greater proportion of suitable habitat, giving a closer correlation between environmental variables and occurrence (Pöyry et al. 2008), although the effect of body size on
+butterfly mobility is contentious (Cowley et al. 2001). &lt;br&gt;
+Estimates of model accuracy made using the data partitioning approach were relatively consistent with estimates made using the new survey data. This suggests that a data-partitioning approach can give us a good idea about the relative accuracy of
+models and can be used to compare model accuracy among species. Accuracy estimates made using the partitioned species records and pseudo-absences, and also with independent presence records and pseudo-absences, were much higher than estimates made
+using both independent presence and independent absence records. This is consistent with a previous suggestion that overly-optimistic estimates of model accuracy can be generated using pseudo-absence data (Lobo et al. 2008), but it should be borne
+in mind that the small numbers of independent records may partly explain the low measures of accuracy using independent data. Nevertheless, further comparisons of model accuracy using pseudo-absences and real absences are needed and it would be
+prudent not to use data partitioning as the sole method for evaluating distribution models, especially if the models will be used for conservation decision-making. The accepted threshold of 0.7 above which models are considered to be good (Pearce
+and Ferrier 2000) may place undeserved confidence in poor predictions. &lt;br&gt;
+Some of the variation in model accuracy was explained by range size. Species with larger ranges within Egypt were modelled less accurately than species with smaller ranges. A negative effect of range size on the accuracy of species distribution
+models has been reported before (Stockwell and Peterson 2002, Brotons et al. 2004, Segurado and Araújo 2004, Hernandez et al. 2006, Newbold et al. 2009b), but most of these studies have used real presence data with pseudo-absence data. Thus, the
+apparent effect of range size could be a statistical artefact owing to pseudo-absences being more distant in environmental space from the presence records for species with smaller range sizes (Lobo et al. 2008). Our results show that the
+distributions of species with smaller ranges are modelled more accurately even in the absence of statistical artefacts. This could be because narrowly-distributed species have more specific climate and habitat requirements than more widespread
+species (Brotons et al. 2004, Hernandez et al. 2006). Alternatively, separate populations of widespread species may show local adaptation to the environmental conditions in different parts of the study area (Stockwell and Peterson 2002, Brotons et
+al. 2004): although two of the butterfly species have more than one sub-species in Egypt (Carcharodus stauderi and Spialia doris; Gilbert and Zalat 2007), these distinctions were not considered in this study. &lt;br&gt;
+Surprisingly, we found a significant negative effect of the number of species records used to build models on the accuracy of model predictions. Most previous studies have found the relationship between sample size and model accuracy, if present,
+to be positive (Pearce and Ferrier 2000, Phillips et al. 2004). Several studies have shown that species with narrower distributions and more specific habitat requirements are modelled more accurately (Kadmon et al. 2003, Hernandez et al. 2006,
+Newbold et al. 2009b). It is probable that some aspect of this was captured by sample size but not by the measure of range size that we used. For example, more narrowly distributed species are likely to be less abundant (Gaston et al. 2000) and
+thus detected less often during surveys. Alternatively, habitat specialists may be easier to model because they have very specific requirements, but may be restricted to particular microhabitats or resources and thus have been detected less
+frequently in the past. &lt;br&gt;
+Ideally data used to evaluate the accuracy of distribution models should be completely independent of the data used to build the models and free from any bias (Chatfield 1995), but given limited resources this may not be possible (Wintle et al.
+2005). Although our new species records contained some bias (for example, towards locations near roads), we reduced environmental bias by selecting sites that covered as broad a range of climate and habitat types as possible. This approach is
+better than simple data-partitioning, because some bias has been eliminated and because locational error in the records has been eliminated. Moreover, it is more practicable than a truly random survey, especially for less accessible areas such as
+Egypt. The time constraints imposed on our field expedition meant that we were only able to survey the northeast part of Egypt. Therefore, we cannot be certain that the models were accurate for other parts of Egypt, particularly in the Western
+desert where museum records are scarce. Nevertheless, at least in northeast Egypt, the models appeared to provide an accurate reflection of the distribution of species. &lt;br&gt;
+In conclusion, our results support the use of species distribution models in ecology. Predictions made for many species in three very different taxonomic groups were shown to be accurate using completely independent species occurrence data.
+However, there was considerable variation across species in the accuracy of distribution models. Distribution models have great potential as tools for conservation, but it is crucial that their predictions are first evaluated thoroughly.
+Currently, using completely independent data to evaluate model predictions is a rare practice, which is not surprising given that conducting new surveys can be time-consuming and very expensive (Wintle et al. 2005). However, we show that even
+small field surveys can be used to test model accuracy and can highlight patterns in the accuracy of models. &lt;br&gt;
+Acknowledgements &lt;br&gt;
+We thank Italian Cooperation (Debt Swap) for funding the BioMAP Project; Mustafa Fouda (Director of the Nature Conservation Sector, EEAA) for facilities and comments on the work; all the BioMAP staff (Ahmed Yakoub, Alaa Awad, Muhammed Sherif,
+Shama Omran, Shaimaa Esa, Yasmin Safwat, Nahla Ahmed, Esraa Saber); Mohammad Basuony and Abd El Aal Attia for help during dataset preparation and preliminary analysis; and Rashed Refaey, Ahmed Refaey and other Egyptian field guides for making the
+field expedition possible. This work was supported by the Natural Environment Research Council (grant number NER/S/A/2006/14170). &lt;br&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Climate-based models of spatial patterns of species richness in Egypt’s butterfly and mammal fauna</title>
+      <link>/publication/2009_newbold_etal_jbiogeography/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/2009_newbold_etal_jbiogeography/</guid>
+      <description>&lt;p&gt;&lt;p align=&#34;center&#34;&gt;
+&lt;b&gt;Download PDF&lt;/b&gt;&lt;br&gt;&lt;a href=&#34;/Publications/Newbold_etal_2009_JBiogeogr.pdf&#34; onclick=&#34;return confirmSubmit()&#34; oncontextmenu=&#34;return false;&#34; target=&#34;_blank&#34; title=&#34;Download PDF of the paper&#34;&gt;&lt;img src=&#34;/img/PDF.png&#34; width=&#34;100&#34; height=&#34;100&#34;&gt;&lt;/a&gt;
+&lt;/p&gt;
+&lt;div style=&#34;display: none&#34;&gt;
+Tim Newbold, Francis Gilbert, Samy Zalat, Ahmed El-Gabbas, Tom Reader 2009&lt;br&gt;
+Climate-based models of spatial patterns of species richness in Egypt’s butterfly and mammal fauna&lt;br&gt;
+Journal of Biogeography 36: 2085-95&lt;br&gt;
+10.1111/j.1365-2699.2009.02140.x&lt;br&gt;
+Abstract &lt;br&gt; Aim: Identifying areas of high species richness is an important goal of conservation biogeography. In this study we compared alternative methods for generating climate-based estimates of spatial patterns of butterfly and mammal
+species richness. &lt;br&gt; Location: Egypt. &lt;br&gt; Methods: Data on the occurrence of butterflies and mammals in Egypt were taken from an electronic database compiled from museum records and the literature. Using Maxent, species distribution models were
+built with these data and with variables describing climate and habitat. Species richness predictions were made by summing distribution models for individual species and by modelling observed species richness directly using the same environmental
+variables. &lt;br&gt; Results: Estimates of species richness from both methods correlated positively with each other and with observed species richness. Protected areas had higher species richness (both predicted and actual) than unprotected areas. &lt;br&gt;
+Main conclusions: Our results suggest that climate-based models of species richness could provide a rapid method for selecting potential areas for protection and thus have important implications for biodiversity conservation. &lt;br&gt;
+Introduction &lt;br&gt; In 2002, the Convention on Biological Diversity adopted the target of significantly reducing the rate of biodiversity loss by 2010. Monitoring biodiversity trends requires knowledge of the distributions of species and of patterns
+in species richness. However, such data are limited, especially in the tropics (Anderson et al., 2003) and in arid regions (Stockwell &amp;amp; Peters, 1999). &lt;br&gt;
+Using statistical methods to predict the distribution of species is an approach that shows great promise (Wintle et al., 2005). Distribution models relate known species occurrence data to environmental variables, such as climatic variables and
+habitat types. Both traditional statistical techniques and newer methods have been shown to model individual species distributions with a high degree of accuracy (Elith et al., 2006). Some authors have experimented with summing individual
+predictions of species distributions to estimate species richness. For example, Garcia (2006) produced distribution models for 267 reptile and amphibian species in Mexico and summed them to produce a prediction of species richness. However, when
+large numbers of species are involved, summing distribution models to generate species richness predictions may be time-consuming (Gioia &amp;amp; Pigott, 2000). An alternative approach is to model species richness directly. Whilst there have been many
+attempts to find climatic and habitat-related determinants of species richness patterns (e.g. Kivinen et al., 2007; Levinsky et al., 2007), no studies have explicitly compared summed distribution predictions with models of species richness per se,
+although Gioia &amp;amp; Pigott (2000) used both approaches. Such a comparison will be very useful for conservation biologists attempting to understand spatial patterns of biodiversity. &lt;br&gt;
+Many studies have investigated correlates of species richness, often finding climate variables to be good correlates of observed patterns (e.g. Hawkins et al., 2003). Arid environments are under-studied in this respect (but see van Rensburg et
+al., 2002; Schmidt et al., 2008). The mechanistic explanation for these relationships remains a matter of debate, and the conclusions of any study of patterns of species richness are strongly affected by the spatial scale at which they are
+conducted (Field et al., 2009). Currie et al. (2004) explored three hypotheses for climate-based patterns in species richness, concerning energy, the climatic tolerance of species and speciation rates. They did not find unequivocal support for any
+of these hypotheses in the literature. At broad scales, historical factors (Qian &amp;amp; Ricklefs, 2000) and the distribution of resources (Araújo &amp;amp; Luoto, 2007) may play important roles in determining species richness. At finer scales, competition
+(Anderson et al., 2002), metapopulation dynamics (Hanski, 1991) and human disturbance (Uehara-Prado et al., 2007) have also been shown to exert a significant influence on species richness. &lt;br&gt;
+Several studies have shown that butterfly and mammal species richness correlate with climate and habitat variables in temperate and tropical regions, at both local scales (Turner et al., 1987; Kivinen et al., 2007; Kuussaari et al., 2007) and at
+broader scales (Nogués-Bravo &amp;amp; Araújo, 2006; Algar et al., 2007; Levinsky et al., 2007). However, to date very few studies have investigated correlates of mammal and butterfly species richness in an arid environment (but for mammals see Andrews &amp;amp;
+O’Brien, 2000). &lt;br&gt;
+In this paper we report the results of a study of butterfly and mammal species richness in Egypt, a country with a typical arid-environment flora and fauna. Egypt has two endemic and two near-endemic butterfly species, and also three endemic
+subspecies (Larsen, 1990). The mammal fauna includes four endemic and 10 near-endemic species. We sought to identify environmental correlates of species richness at a local scale in an arid environment. We also asked whether estimates of the
+species richness of Egyptian butterflies and mammals derived from models of species richness had a good match with estimates made by summing individual models of the distribution of species, and whether both these estimates matched observed
+patterns of species richness. &lt;br&gt;
+One application of models of species richness is in assessing the effectiveness of protected areas. Global estimates of the effectiveness of protected areas generally suggest poor coverage of biodiversity (Chape et al., 2005). Country-level
+studies have often found species richness to be no higher in protected areas than in unprotected areas (e.g. Pawar et al., 2007; Traba et al., 2007; but see, e.g., Lee et al., 2007). Egypt has 27 current or proposed protected areas, covering a
+total of 11% of its land surface (Egyptian Environmental Affairs Agency, 2007). All these have been gazetted since 1983, mostly at the recommendation of scientists familiar with Egypt’s biodiversity. As such, we may expect them to show better
+coverage of biodiversity than protected areas in other countries. We tested whether protected areas in Egypt have higher species richness than unprotected areas. &lt;br&gt;
+Materials and methods &lt;br&gt;
+Species and climate data &lt;br&gt;
+Species occurrence data were compiled as part of Egypt’s BioMAP project (see &lt;a href=&#34;http://www.biomapegypt.org/&#34; target=&#34;_blank&#34;&gt;http://www.biomapegypt.org/&lt;/a&gt; for more details). The butterfly dataset consisted of 1898 records for 59 species, mostly from museum specimens and the sparse literature on
+Egyptian butterflies (Larsen, 1990; Gilbert &amp;amp; Zalat, 2007). Records were made between the years 1829 and 2006, but most were from the 20th century (see Fig. S1 in Appendix S1 in Supporting Information). All extant specimens in Egyptian collections
+were re-identified according to the latest taxonomic opinion; Larsen (1990) had already reviewed and checked most other records. Coverage of Egypt is patchy, but probably fairly representative in the sense that all the main areas where butterflies
+occur have been sampled, whilst the huge areas of the Great Sand Sea where no butterflies are thought to occur have not been sampled. The main lacuna in collecting effort is the Qattara Depression in the northern part of the Western Desert. &lt;br&gt;
+The mammal data consisted of 4718 records for 103 species, also taken from museum and personal records, unpublished reports and the published literature. Mammal records were made between the years 1580 and 2007, but the majority fell in the second
+half of the 20th century (see Fig. S1 in Appendix S1). The identification of every record and Egyptian specimen was checked or rechecked, according to the latest taxonomic opinion (Wilson &amp;amp; Reeder, 2005), by the top mammal taxonomist in Egypt (Dr
+M. Bassiouny, Al Azhar University, Cairo). Coverage of Egypt is very good, due to systematic and extensive collecting in the period 1950–80 coupled with careful evaluation of taxonomy (see Osborn &amp;amp; Helmy, 1980). &lt;br&gt;
+All locations were mapped as accurately as possible using a bespoke gazetteer developed by the BioMAP project over 3 years of collating Egyptian biodiversity records. The maximum error of each location was estimated by the point radius method (see
+Wieczorek et al., 2004) and excessively inaccurate records rejected. &lt;br&gt;
+Climatic predictors were taken from the WorldClim version 1.4 dataset at a resolution of 30 arcsec (c. 1 km) (Hijmans et al., 2005). This source contains 20 variables describing aspects of temperature, precipitation and elevation. We also used a
+new Egyptian geological habitat map (hereafter referred to simply as habitat) (A. A. Hassan, unpublished data). Habitat was classified into 11 classes (sea, littoral coastal land, cultivated land, sand dune, wadi, metamorphic rock, igneous rock,
+gravels, serir sand sheets, sabkhas and sedimentary rocks) based on remote sensing and extensive ground truthing. In preliminary analyses we also experimented with topographical predictors (slope and aspect). However, these variables did not
+significantly improve model accuracy and were excluded from the final analyses. &lt;br&gt;
+To ensure that the species records were not environmentally biased, we tested their coverage of the main environmental gradients. Butterfly and mammal sites were treated separately for this analysis. Four principal component variables based on the
+20 climatic and elevation variables were each classified into four categories using Jenks (1967) natural breaks, giving 256 unique combinations of categories (henceforth called areas of climatic space). The number of areas of climatic space that
+contained at least one survey location was calculated. To estimate the number of areas that would have been visited if sampling was completely random, we generated 100 sets of random survey points of the same number as the real sampling locations
+and calculated the number of areas represented. To evaluate the coverage of habitat classes by sampled locations, a chi-square test was performed to assess whether sites fell into significantly (α = 0.05) different proportions of classes than
+expected by chance. &lt;br&gt;
+Modelling species richness &lt;br&gt;
+We modelled the species richness of butterflies and mammals separately, using two methods. First, we summed predictions of the distribution of individual species, using a resolution of 30 arcsec. We made initial distribution models for the 40
+butterfly species and 68 mammal species with at least eight records of occurrence, using Maxent version 2.3 (Phillips et al., 2006). Maxent is designed for use with species datasets that contain only records of presence (Phillips et al., 2006) and
+thus may be particularly useful when species data are taken from museum collections. Maxent attempts to find a probability distribution that is as close to uniform as possible with the constraint that the expected value of each environmental
+variable (the sum, across all grid cells, of the product of the probability of occurrence and the value of the environmental variable) must equal the mean value at the presence points (the empirical average). Regularization relaxes this constraint
+such that the expected value of each environmental variable may fall within a predefined margin around the empirical average, preventing over-fitting of the model (Dudík et al., 2004). The algorithm runs until improvement in model accuracy at each
+iteration falls below a set threshold (convergence) or until a maximum number of iterations have been performed. Full details are given in Phillips et al. (2006). We used the 19 climatic variables, elevation and habitat as predictor variables.
+Linear and quadratic terms were fitted for continuous variables. We used default values for all parameters (a regularization value of 1, a convergence threshold of 0.00001, a maximum of 500 iterations and a sample of 10,000 points to characterize
+the background environment). Ten initial models were made for each species. For each model, the species data were randomly divided into half for building the model and half for evaluating the model. The accuracy of each model was assessed using
+the ‘area under the receiver operating characteristic curve’ (AUC) statistic, as calculated within the Maxent procedure. Following the recommendations made by Swets (1986), we eliminated five butterfly species and seven mammal species with mean
+AUC scores of &amp;lt; 0.7. This left 35 butterfly species, including one of the two endemic species and both near-endemic species, and 61 mammal species, including three of the four endemic species and five out of 10 near-endemic species. &lt;br&gt;
+A single final model was then made for each of the remaining species, again at a resolution of 30 arcsec, using the same modelling protocol, but this time using all presence records. The output of statistical models varies among species according
+to the relative numbers of presences and absences in the species data (prevalence) (Manel et al., 2001). Therefore, simply summing the output of individual distribution models may bias estimates of species richness in favour of taxa with many
+records. It is better to convert the model output into a binary prediction of presence or absence around a threshold value. Many methods have been proposed for choosing appropriate thresholds. For datasets consisting only of presences, Pearson et
+al. (2004) recommended using a threshold that maximizes sensitivity (the percentage of presences correctly predicted as being present at a given threshold). Here we used a threshold that resulted in a sensitivity of 95%. Once the models had been
+converted to binary predictions of presence or absence, they were summed across all species to give an estimate of species richness. &lt;br&gt;
+The second method of modelling species richness was to model observed species richness values directly. This part of the study was concerned with the total number of species recorded in each cell rather than individual records of species.
+Therefore, we used a resolution of 0.5°, because at the finer resolution most cells contained no records. Observed species richness was calculated from the original survey data in diva-gis 5.2 (&lt;a href=&#34;http://www.diva-gis.org/&#34; target=&#34;_blank&#34;&gt;http://www.diva-gis.org/&lt;/a&gt;). A species was considered
+present in a cell if it had been recorded at least once. Species richness was modelled using generalized linear models (GLMs) with the same independent variables as in the species distribution models. Following an inspection of the residuals of a
+general linear model and consideration of dispersion, the most appropriate family of GLMs was chosen for each model. The variables were resampled to the coarser resolution using bilinear interpolation. In bilinear interpolation, the values of the
+four nearest grid cells to the target cell are averaged after being weighted according to their distance to the target cell. Fitting too many independent variables in GLMs may result in overfitting and the selection of nonsense variables in the
+final model (Wintle et al., 2005). To avoid these problems, we performed a principal components analysis (PCA) on the 19 climatic variables and elevation across all 406 of the 0.5° cells. Components with an eigenvalue &amp;gt; 1.0 were retained as new
+predictor variables. In the GLMs, linear and quadratic terms were fitted for each of these components. We constructed two separate models of species richness: (1) assuming that cells with no species records had a species richness of zero; and (2)
+excluding cells with a recorded species richness of zero. In the first we fitted recorded species richness values of all 406 of the 0.5° grid cells in the study area. We used a GLM with negative binomial errors (NB-GLM) and the log link (Crawley,
+2002; Venables &amp;amp; Ripley, 2002). For the second model, since some cells with a recorded richness of zero may occur simply because they have not been sampled and the results could be biased by the inclusion of false zero values, we fitted the
+species richness values of 0.5° cells with at least one record of the taxonomic group in question – 100 cells for butterflies and 196 cells for mammals. A GLM with Poisson errors (P-GLM) and the log link (McCullagh &amp;amp; Nelder, 1989) was used. &lt;br&gt;
+Statistical analysis &lt;br&gt;
+The agreement between fitted values of species richness generated using the different methods was tested using Spearman’s rank correlation tests. For comparison, the species richness prediction generated by summing individual distribution models
+was resampled from its original resolution of 30 arcsec to a resolution of 0.5° using bilinear interpolation. Thus, all tests compared species richness across all 362 of the 0.5° grid cells with an estimate of species richness by all three
+models. These comparisons included cells with no species records; these cells were assumed to have a species richness of zero. We also repeated the same correlation tests using only cells that had at least one record of a species in the group
+being considered. &lt;br&gt;
+We tested whether Egypt’s protected areas network represented butterfly and mammal species richness well by comparing estimated (using the distribution model-sum method) and observed species richness inside and outside protected areas at 2000
+points, randomly situated in 1-km cells throughout the study area. These points were generated using Hawth’s analysis tools for ArcMap 9.1 (Beyer, 2004). We also compared both estimated and observed richness of endemic and near-endemic species
+inside and outside protected areas. For this comparison, we grouped mammals and butterflies because the number of endemic species was small. &lt;br&gt;
+The NB-GLMs and P-GLMs were built using the glm (Poisson errors) and glm.nb (negative binomial errors) packages in R 2.6.1 (R Development Core Team, 2004). For both, a manual backward stepwise selection procedure was used to remove terms that did
+not significantly improve the deviance explained, until a minimum adequate model was obtained (Crawley, 2002). All other analyses were carried out using spss 15.0 (SPSS Inc., Chicago, USA). The comparison of actual and predicted species richness
+inside and outside protected areas was undertaken using a Mann–Whitney U-test. &lt;br&gt;
+Results &lt;br&gt;
+The species occurrence data showed no biases in environmental space that would preclude accurate modelling. Sampled sites covered the full range of values of each of the principal components based on the climatic variables. The butterfly sampling
+locations fell into 44 of 256 areas of climatic space, 84.1% of the number expected by chance. Sites that were sampled for mammals covered 76 areas of climatic space, 107.5% of the number expected by chance. Sites for both butterflies and mammals
+fell into significantly different proportions of habitat types than expected by chance (χ2 = 1035, d.f. = 9, p 0.001 and χ2 = 2248, d.f. = 9, p 0.001, respectively). For both butterflies and mammals, littoral coastal areas, cultivated land, wadis
+(dry desert valleys), areas of metamorphic rock and areas of igneous rock were sampled more often than expected by chance. Sand dunes, gravels, serir sand sheets and areas of sedimentary rock were sampled less often than expected by chance.
+Sixty-three of 333 butterfly sites and 200 of 1395 mammal sites fell inside Egypt’s protected areas. A map of Egypt’s protected areas and the sites that were sampled for mammals and butterflies is given in Fig. 1(a). &lt;br&gt;
+(a) Sites where mammals (circles) and butterflies (triangles) were sampled, and the location of Egypt’s protected areas (grey shading). Maps of (b) predicted butterfly and &amp;copy; mammal species richness generated by summing individual predictions of
+the distributions of species. Lighter tones indicate high predicted species richness and darker tones indicate lower species richness. The distribution predictions were made using Maxent. &lt;br&gt;
+The final distribution models (those using all the species occurrence data) achieved mean AUC values between 0.863 and 0.999 for butterfly species and between 0.831 and 0.999 for mammal species. The average relative contribution of habitat,
+elevation and the 19 climatic variables to the final distribution models is shown in Fig. S2 in Appendix S1, and the contributions of variables in the models for each species are given in Appendix S2. Habitat and elevation were important in
+explaining the distributions of both butterflies and mammals. Among the climatic predictors, temperature-related variables were more important than precipitation-related variables in determining butterfly distributions, while for mammals, annual
+and maximum precipitation variables were also important. &lt;br&gt;
+The predictions of species richness made using the first method (summing distribution models for individual species) are mapped in Fig. 1(b,c). The models of species richness generated using this method correlated positively and significantly
+with observed species richness (Table 1, Fig. 2a). The second method of estimating spatial patterns of species richness was to model species richness values directly. The PCA of the 19 climatic variables and elevation produced four components
+with eigenvalues &amp;gt; 1.0. All original climate variables were represented in at least one of the extracted components (Table S1 in Appendix S1). Scores on the first principal component increased with increasing maximum temperature and decreasing
+precipitation annually and at otherwise wet times of year (Table S1 in Appendix S1). The second component increased with increasing annual temperature and increasing temperature during cooler periods of the year. The third component described
+increasing elevation, decreasing annual temperature and increasing precipitation at drier times of the year. The fourth component increased with decreasing temperature during dry periods, increasing precipitation (annually and during cold times
+of the year) and decreasing minimum precipitation. The models fitting species richness values for all 406 of the 0.5° cells (NB-GLM), which included cells with a recorded species richness of zero, explained 16.3% of the deviance in the species
+richness of butterfly species and 21.3% of the deviance in mammal species richness. For butterflies, only the linear term of PC1 (describing mainly precipitation but also maximum temperature) and habitat had a significant effect on species
+richness (Table 2). For mammals, habitat, the quadratic term of PC1 and both terms of PC2 (describing several temperature-related variables) and PC4 (describing variables related to extremes of temperature and rainfall) had a significant effect
+on species richness (Table 2). Estimated species richness according to the NB-GLMs correlated significantly and positively with observed species richness (Table 1, Fig. 2b). The models fitting species richness values only for 0.5° cells with at
+least one species record (P-GLM) explained 19.1% of the deviance in butterfly species richness and 18.3% of the deviance in mammal richness. For butterflies, both terms of PC1 and PC4, the quadratic term of PC3 (high values of which indicate
+high-altitude areas with rainfall all year round) and habitat were all significantly related to species richness (Table 3). For mammals, both terms of PC1, the quadratic terms of PC2 and PC4, the linear term of PC3 and habitat were significant
+predictors of species richness (Table 3). Species richness estimates from these models also correlated significantly and positively with observed species richness (Table 1, Fig. 2c). Across all 0.5° grid cells, the estimates made using the
+different modelling methods correlated significantly with each other (Table 1, Fig. 3). &lt;br&gt;
+Table 1. Correlations among fitted values of each of the three models of species richness of butterflies (B) and mammals (M) in Egypt, and correlations between these fitted values and observed species richness. The three models of species
+richness were: (1) summed distributions – distribution models were built for each species at 30 arcsec resolution using Maxent, then summed to estimate species richness; (2) NB-GLM – species richness values of all 0.5° cells were fitted using a
+generalized linear model (GLM) with negative binomial errors; (3) P-GLM – species richness values of sampled cells were fitted using a GLM with Poisson errors. Correlations were calculated both for all cells and for sampled cells only. Species
+richness values cannot be considered independent in the presence of spatial autocorrelation; the effective sample size is reduced in the presence of such non-independence. Therefore, the minimum sample sizes at which the reported correlation
+coefficients would remain significant (at α = 0.05) are given in brackets after the correlation coefficient. &lt;br&gt;
+Correlations between observed species richness and predicted species richness of butterflies and mammals in Egypt estimated using each of the three models: (a) predictions of the distribution of each species, produced using Maxent, were summed;
+(b) recorded species richness values of all grid cells were modelled using a generalized linear model with negative binomial errors; and &amp;copy; recorded species richness values of sampled grid cells were modelled using a generalized linear model
+with Poisson errors.
+Table 2. Results of generalized linear models (GLMs) with negative binomial errors, fitting the observed species richness of butterflies and mammals in Egypt of all 0.5° grid squares as the dependent variable, with habitat and four bioclimatic
+principal component axes (linear and quadratic terms) as independent variables. Significant terms are shown in bold. LR, likelihood ratio. &lt;br&gt;
+Table 3. Results of generalized linear models (GLMs) with Poisson errors, fitting the observed species richness of butterflies and mammals in Egypt of sampled 0.5° grid cells only (i.e. excluding zero values), with habitat and four bioclimatic
+principal component axes (linear and quadratic terms) as independent variables. Significant terms are shown in bold. &lt;br&gt;
+Correlations between the different models used to predict species richness patterns of butterflies and mammals in Egypt: (a) between the sum of individual species distribution models and the generalized linear model with negative binomial errors
+(NB-GLM) of species richness values; (b) between the sum of individual species distribution models and the generalized linear model with Poisson errors (P-GLM) of species richness values; and &amp;copy; between the NB-GLM and P-GLM models of species
+richness values. y = x lines are shown for reference. &lt;br&gt;
+Observed mammal and butterfly species richness values correlated significantly with each other at sites where at least one butterfly species and one mammal species had been recorded (rs = 0.615, n = 97, p 0.001). Predicted species richness
+(estimated using the distribution model-sum method) also correlated strongly and significantly between butterflies and mammals (rs = 0.920, n = 362, p 0.001). &lt;br&gt;
+Across a random sample of 2000 1-km grid cells, predicted species richness, estimated by summing individual modelled species distributions, of both butterflies (Mann–Whitney test: U = 76,100, n = 1995, p 0.001) and mammals (Mann–Whitney test: U =
+70,300, n = 1995, p 0.001) was significantly higher inside protected areas than outside (Fig. 4a). The observed species richness was also significantly higher inside protected areas than outside for both butterflies (Mann–Whitney test: U =
+111,000, n = 1995, P = 0.016) and mammals (Mann–Whitney test: U = 80,700, n = 1995, p 0.001) (Fig. 4b). Predicted (Mann–Whitney test: U = 105,000, n = 1963, P = 0.028) and observed (Mann–Whitney test: U = 102,000, n = 1963, P = 0.001) richness of
+endemic and near-endemic species (mammals and butterflies combined) was significantly higher inside protected areas than outside. &lt;br&gt;
+(a) Comparison of predicted species richness (mean ± SE) of butterflies and mammals in Egypt, estimated by summing individual species distribution models, between protected areas and unprotected areas. (b) Comparison of observed species richness
+(mean ± SE) between protected areas and unprotected areas. &lt;br&gt;
+Discussion &lt;br&gt;
+We found significant relationships between species occurrence, species richness and the climate and habitat variables that we used. Beale et al. (2008) found that relationships between species occurrence and environmental variables were no better
+than expected by chance. However, we found that habitat and climate variables both had a significant effect on butterfly and mammal distributions, and on patterns of species richness, at least at the local scale at which we carried out this
+study. This finding is consistent with previous studies of butterflies and mammals, where climate and habitat have been identified as good predictors of richness, both at continental and at local scales (e.g. Nogués-Bravo &amp;amp; Araújo, 2006; Algar et
+al., 2007; Kivinen et al., 2007; Levinsky et al., 2007). The association with habitat may reflect the effect of variation in plant communities on animal species distributions. Butterflies and herbivorous mammals are directly dependent on plants
+for food, whilst other mammal species may rely on certain vegetation types indirectly, for example through the availability of herbivorous prey. Temperature variables appear to have a particularly strong effect on butterfly species, although
+causality cannot be inferred from correlative models. Similar relationships have been noted before (Turner et al., 1987) and could be brought about by direct effects of temperature on thermoregulation, or indirectly through climate-driven
+variation in habitat diversity or plant productivity. &lt;br&gt;
+Many other factors in addition to climate may affect species richness, including competition (Anderson et al., 2002), the availability of host plants (Araújo &amp;amp; Luoto, 2007), metapopulation dynamics (Hanski, 1991), human disturbance (Uehara-Prado
+et al., 2007) and other environmental variables such as soil type (Kuussaari et al., 2007), although some of these factors are likely to play a role in determining species richness only at larger spatial scales than were studied here (Whittaker
+et al., 2001). Given all these non-climatic determinants of species richness patterns, it is not surprising that only a relatively low proportion of the variation in species richness was explained by the models, and that the correlations between
+modelled and observed species richness were only moderately strong. Some progress is being made towards including factors other than climatic ones in species distribution models (e.g. Araújo &amp;amp; Luoto, 2007) and this must remain a priority for
+improving the accuracy of predictions. However, the need to identify areas to conserve is urgent and we cannot wait to act until the most accurate models possible have been built for every species. Climate-based models match observed
+distributions well and are quick and easy to build for a large number of species. &lt;br&gt;
+Another reason for the relatively low explanatory power of the models may be that species inventories in sampled cells were incomplete. This seems likely, given that it may be necessary to visit a site many times before absence can be inferred
+with confidence (MacKenzie et al., 2002). In the case of the NB-GLMs, the inclusion of cells with no records of species presence may have introduced false absences to the models. This is especially likely for the butterfly models, because
+surveying was less extensive. Ground-truthing will be required to assess the extent to which mismatches between modelled and observed species richness are due to incomplete inventories or to errors in the models. &lt;br&gt;
+Across all grid cells in the study area, the three methods produced models that showed positive correlations with observed species richness and with each other, suggesting that they could all be used to predict the species richness of unknown
+areas from limited data on the distributions of species, an application that would be of great value for conservation. There were some differences among the models though. Species occurrence and richness data often contain many absences or zero
+values, especially datasets for small or cryptic species with a low probability of detection (MacKenzie et al., 2002). This can bias the parameter estimates of statistical models (Martin et al., 2005). The weaker correlations between observed
+species richness and species richness estimated using the NB-GLMs (those that included cells with recorded species richness of zero), especially for butterflies, may be caused by the inclusion of false absences. This conclusion is further
+supported by the observation that the NB-GLMs produced much lower estimates of species richness than the other two methods (see Fig. 3). The mammal data covered a much larger proportion of both geographical and environmental space than the
+butterfly data, suggesting that recorded species richness values of zero were more reliable. &lt;br&gt;
+Summing the individual distribution models produced the best estimates of species richness. The relationship between predicted and observed species richness across sampled cells was slightly weaker for butterflies, which may be a result of model
+bias caused by false absence records. This would be concerning, given that Maxent is designed to be used with datasets containing only presences (Phillips et al., 2006) and is a possibility that deserves further attention. However, for both
+butterflies and mammals, summing distribution models produced the estimates of species richness that matched observed species richness most closely. The P-GLM models, which did not include cells with a recorded species richness of zero, generated
+more accurate estimates of species richness than the NB-GLM models. GLMs are quick and easy models to build, making them a good first choice for modelling species richness patterns. &lt;br&gt;
+Some previous work has indicated good spatial agreement among different groups in their species richness at regional scales (Qian, 2007), although a global study of bird, mammal and amphibian species richness found the converse (e.g. Grenyer et
+al., 2006). The results of this study show that, at least at a local scale within a single country, butterfly and mammal diversity correlate strongly and positively. &lt;br&gt;
+In contrast to the findings for many other countries and taxonomic groups (e.g. Evans et al., 2006; Pawar et al., 2007; Traba et al., 2007), Egypt’s protected areas network seems to be effective in representing butterfly and mammal diversity. In
+many parts of the world, protected areas have historically included land that has relatively little commercial value; such areas do not necessarily represent the best choice in terms of conserving biodiversity (Margules &amp;amp; Pressey, 2000). Egypt’s
+protected areas network is relatively new and the areas were chosen with the aid of knowledge about the country’s biodiversity. Given such knowledge, and the ability to overcome conflicting interests over land use, it seems that good coverage of
+biodiversity can be achieved. On the other hand, large areas of the Nile Valley and Delta were predicted to have relatively high butterfly diversity but are not yet protected, suggesting that although great progress has been made towards
+protecting species-rich areas, more could still be done. The Nile Valley contains land of high economic value, and setting aside areas to be protected may present a challenge. It is important to note that species richness is only one measure of
+the importance of conserving different areas. Some authors have suggested using taxonomic uniqueness (e.g. Kershaw et al., 1995), complementarity (Margules &amp;amp; Pressey, 2000) or threat (Wilson et al., 2007) instead. Many of Egypt’s endemic and
+near-endemic mammal and butterfly species were included in the models and the richness of endemic and near-endemic species was higher inside protected areas than outside, but a more comprehensive assessment of the protected areas should consider
+a number of different criteria. &lt;br&gt;
+In summary, we have shown that seemingly accurate estimates of species richness can be made using patchy, incomplete data, allowing us to predict the species richness of sites that have not been surveyed. The three models of species richness were
+largely similar, although the model based on individual distribution models produced the most consistently accurate results. A similar comparison of the same three models in different regions and for different species would be useful in
+establishing the general reliability of the approach. Models based on species richness itself, rather than individual species distributions, may be useful when species identity is unknown, for example when using species richness estimators. The
+results are important for conservation, given the urgency with which we must identify areas that need to be protected, although similar comparisons of species richness models for more taxonomic groups and for a broader geographical region would
+be useful. &lt;br&gt;
+Acknowledgements &lt;br&gt;
+We thank the Italian Cooperation (Debt for Development Swap) for funding the BioMAP Project; Mustafa Fouda (Director of the Nature Conservation Sector, Egyptian Environmental Affairs Agency) for facilities and comments on the work; all the BioMAP
+staff (Ahmed Yakoub, Alaa Awad, Muhammed Sherif, Shama Omran, Shaimaa Esa, Yasmin Safwat, Nahla Ahmed, Esraa Saber); Mohamed Basuony and Abd El Aal Attia for help during dataset preparation and preliminary analysis; and Richard Field and four
+anonymous referees for valuable comments on an earlier draft. This work was supported by the Natural Environment Research Council (grant number NER/S/A/2006/14170). &lt;br&gt;
+Biosketch &lt;br&gt;
+The behavioural ecology group at Nottingham University (see &lt;a href=&#34;http://www.nottingham.ac.uk/~plztr/groupsite/&#34; target=&#34;_blank&#34;&gt;http://www.nottingham.ac.uk/~plztr/groupsite/&lt;/a&gt;) studies a wide range of topics including conservation ecology and biodiversity. BioMAP (&lt;a href=&#34;http://www.biomapegypt.org/&#34; target=&#34;_blank&#34;&gt;http://www.biomapegypt.org/&lt;/a&gt;) spent 3 years
+gathering species records from museums, natural history collections and the literature, compiling them into an electronic database. It also promoted wildlife conservation in Egypt. The second part of the BioMAP project will commence this year.
+&lt;br&gt;
+&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Effect of characteristics of butterfly species on the accuracy of distribution models in an arid environment</title>
+      <link>/publication/2009_newbold_etal_biodiversity_conservation/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/2009_newbold_etal_biodiversity_conservation/</guid>
+      <description>&lt;p&gt;&lt;p align=&#34;center&#34;&gt;
+&lt;b&gt;Download PDF&lt;/b&gt;&lt;br&gt;&lt;a href=&#34;/Publications/Newbold_etal_2009_BiodiversConserv.pdf&#34; onclick=&#34;return confirmSubmit()&#34; oncontextmenu=&#34;return false;&#34; target=&#34;_blank&#34; title=&#34;Download PDF of the paper&#34;&gt;&lt;img src=&#34;/img/PDF.png&#34; width=&#34;100&#34; height=&#34;100&#34;&gt;&lt;/a&gt;
+&lt;/p&gt;
+&lt;div style=&#34;display: none&#34;&gt;
+Tim Newbold, Tom Reader, Samy Zalat, Ahmed El-Gabbas &amp;amp; Francis Gilbert 2009&lt;br&gt;
+Effect of characteristics of butterfly species on the accuracy of distribution models in an arid environment&lt;br&gt;
+Biodiversity &amp;amp; Conservation 18: 3629-41.&lt;br&gt;
+10.1007/s10531-009-9668-5&lt;br&gt;
+Species distribution models show great promise as tools for conservation ecology. However, their accuracy has been shown to vary widely among taxa. There is some evidence that this variation is partly owing to ecological differences among species,
+which make them more or less easy to model. Here we test the effect of five characteristics of Egyptian butterfly species on the accuracy of distribution models, the first such comparison for butterflies in an arid environment. Unlike most
+previous studies, we perform independent contrasts to control for species relatedness. We show that range size, both globally and locally, has a negative effect on model accuracy. The results shed light on causes of variation in distribution model
+accuracy among species, and hence have relevance to practitioners using species distribution models in conservation decision making. &lt;br&gt;
+Species distribution models have great potential to aid conservation efforts, allowing ecologists to predict species distributions over a large area, using incomplete data on species occurrence combined with maps of environmental variables,
+describing climate, habitat and topography (Wintle et al. 2005). Many studies have compared the accuracy of predictions made by different modelling techniques, often finding that many techniques perform similarly well (Elith et al. 2006; Hernandez
+et al. 2006; Phillips et al. 2006). In fact, there may be more variation in model accuracy among species than among modelling techniques (Berg et al. 2004; Elith et al. 2006). As a result, whether the characteristics of species affect the accuracy
+of distribution models is a question that is receiving increasing attention in the literature. &lt;br&gt;
+The breadth of a species’s niche has often been considered when trying to explain differences in model accuracy among species. Studies have found that species with narrow, well-defined niches are better modelled than those with broader niches
+(Boone and Krohn 1999; Pearce et al. 2001; Kadmon et al. 2003; Berg et al. 2004) and that models for specialist species are generally more accurate than models for generalists (Hepinstall et al. 2002; Segurado and Araújo 2004; Elith et al. 2006).
+Species with narrow niches generally have better-defined climate and habitat requirements, which are easier to model (Kadmon et al. 2003). Other studies have shown that the breadth of a species’ niche relative to the environmental conditions found
+in the study area as a whole influences model accuracy more than the breadth of a species’ niche per se (Seoane et al. 2005; Hernandez et al. 2006). More marginal species (those that have niches furthest from the average conditions of the study
+area) have also been shown to be modelled more accurately than less marginal species, probably for similar reasons (Luoto et al. 2005; Seoane et al. 2005; Carrascal et al. 2006; Hernandez et al. 2006). We might expect therefore that the accuracy
+of species distribution models will decrease with increasing niche breadth or habitat tolerance. &lt;br&gt;
+Models for species that have narrow distributions in geographical space have also been found to be more accurate than models for species with larger distributions (Stockwell and Peterson 2002; Brotons et al. 2004; Segurado and Araújo 2004;
+Hernandez et al. 2006). This may be related to the effect of niche width, with smaller range size being associated with better-defined habitat requirements (Brotons et al. 2004; Hernandez et al. 2006). Alternatively, populations of species with
+larger ranges may show local adaptation to different environmental conditions, decreasing the accuracy of models that consider all populations together (Stockwell and Peterson 2002; Brotons et al. 2004). Similarly, McPherson and Jetz (2007) found
+that endemic species were modelled more accurately than non-endemic species; this effect may be related to the effects of local range size and niche breadth or may be because the environmental gradients inhabited are incompletely sampled in the
+case of non-endemics (McPherson and Jetz 2007). Overall, we expect species with smaller range sizes, both on local and regional scales, to be modelled more accurately than species with larger ranges. Tests of the effect of range size on model
+accuracy may be confounded by statistical artefacts. The AUC statistic is a common measure of the accuracy of species distribution models and has been used in many of the studies reviewed here. However, it may be biassed in favour of species with
+narrow ranges (Lobo et al. 2008). &lt;br&gt;
+Only a few studies have considered the effect of migratory behaviour on the accuracy of distribution models. All such studies have focused on birds, most finding that models for migratory species were poorer than models for non-migratory species
+(Pearce et al. 2001; McPherson and Jetz 2007), probably because the distributions of migratory species are determined by environmental conditions at very specific times of the year (McPherson and Jetz 2007). Conversely, Stockwell and Peterson
+(2002) found no difference in model accuracy between migratory and non-migratory species, and Mitchell et al. (2001) found that models for migratory bird species were better than models for resident species. No previous study has compared model
+accuracy between migratory and non-migratory butterfly species. Pöyry et al. (2008) showed that more mobile butterfly species were better modelled than less mobile species, probably because more mobile species can expand their ranges into
+uninhabited areas more easily and hence occupy a greater proportion of the suitable habitat than less mobile species (but see Pearce et al. 2001). We expect distribution models to be more accurate for resident butterfly species than for migratory
+species. &lt;br&gt;
+There is evidence that both sample size and prevalence (the relative number of presence and absence records) affect the accuracy of distribution models (Manel et al. 1999; Stockwell and Peterson 2002; Brotons et al. 2004; Luoto et al. 2005; Seoane
+et al. 2005). Therefore, it is important to account for these factors when comparing model accuracy among species (Karl et al. 2002; Huntley et al. 2004; McPherson et al. 2004). Reported effects of prevalence on model accuracy have been mixed,
+including both positive and negative relationships (Luoto et al. 2005; Brotons et al. 2004), but we expect model accuracy to increase with sample size. &lt;br&gt;
+Some authors have demonstrated evolutionary conservatism of ecological niches (Peterson et al. 1999). Furthermore, there may be a substantial heritability in many of the characteristics of species used to explain differences in model accuracy,
+particularly range size (Jablonski 1987; Hunt et al. 2005; Beck et al. 2006; but see Webb and Gaston 2003). However, to date, only one study has controlled for phylogeny when investigating differences in distribution model accuracy among species
+(Pöyry et al. 2008). In this case, incorporating phylogeny did not affect the results, but this may not be true for other taxonomic groups, regions or characteristics of species. &lt;br&gt;
+In this study, we test the effect of five characteristics of species (local range size, global range size, migratory behaviour, host-plant specialisation and habitat tolerance) on the accuracy of distribution models for butterflies in Egypt,
+controlling for the potentially confounding effects of sample size and prevalence on model accuracy. Two separate measures of model accuracy were used to minimise the impact of statistical bias on our conclusions. We also control for the influence
+of species relatedness using independent contrasts. &lt;br&gt;
+Materials and methods &lt;br&gt;
+Data describing the occurrence of 59 butterfly species in Egypt were compiled as part of Egypt’s BioMAP project (Gilbert and Zalat 2007). The species data were collected between 1829 and 2006, but most records date from the 20th Century (Newbold
+et al. 2009). We used five environmental variables as predictors: four principal components, which describe altitude and 19 bioclimatic variables from WorldClim (Hijmans et al. 2005), and a categorical land cover variable based on AVHRR satellite
+data (Hansen et al. 2000). Land cover is classified into 13 categories globally—needleleaf evergreen forest, broadleaf evergreen forest, needleleaf deciduous forest, broadleaf deciduous forest, mixed forest, woodland, wooded grassland, closed
+shrubland, open shrubland, grassland, cropland, bare ground, and urban areas (Hansen et al. 2000)—eight of which are found in Egypt. All variables had a resolution of 30 arc seconds (~1 km). &lt;br&gt;
+Models were built with Maxent Version 2.3 (Phillips et al. 2006). We generated distribution models for 40 species with at least eight occurrence records. The datasets for each species were divided randomly, with half the records used for model
+building and half for model evaluation. For each species we built ten models, using different subsets of the data to build and evaluate each. &lt;br&gt;
+We initially evaluated the models using the area under the receiver operating characteristic curve (AUC). AUC values were calculated using the trapezoid method (Pearce and Ferrier 2000a). Its calculation requires both presence and absence records.
+We generated 2,500 pseudo-absences, randomly situated in grid cells with no recorded occurrence of a given species. The AUC statistic may be sensitive to the extent of the study area and the proportion of this area that the species inhabits. As an
+additional evaluation of model performance, we fitted a generalised linear model (GLM) with binomial errors using the presences and pseudo-absences reserved for model evaluation as the dependent variable and the model predicted probability of
+occurrence at these sites as a single independent variable. The deviance explained by this model was used as a measure of model accuracy. Negative values indicate negative relationships between model predicted probability and observed occurrence.
+AUC values and deviances explained were averaged across all ten model runs for each species. &lt;br&gt;
+We considered six characteristics of species that may affect the accuracy of distribution models: (1) the mean number of presence records used in the ten model runs; (2) whether the species is a migrant, partial migrant or resident in Egypt; (3)
+whether the species is a specialist or generalist in terms of the host plants it uses; (4) the species’ inhabited range size within Egypt; (5) its global range size (endemic, near-endemic, restricted-range, narrowly distributed or widespread); and
+(6) its habitat tolerance. Migratory behaviour data were taken from Gilbert and Zalat (2007). Species were defined as specialists if their host plants are confined to one genus and as generalists otherwise, according to Gilbert and Zalat (2007).
+Maxent outputs a cumulative predicted probability of occurrence for each model between 0 and 100. The mean proportion of grid cells with a predicted value of greater than 50 (averaged across the ten model runs for each species) was used as an
+index of range size within Egypt. Global range size followed the classifications used in Gilbert and Zalat (2007). The breadth of a species’ habitat tolerance was estimated as the number of land cover categories into which recorded species
+occurrences fell into. &lt;br&gt;
+The results of cross-species comparisons may be confounded by an effect of species relatedness on their niches and on the species characteristics considered. To control for this we calculated independent contrasts for both measures of model
+accuracy and all six characteristics of species (Harvey and Pagel 1991). One species characteristic (migratory behaviour) was a categorical variable with more than two categories, so we reclassified it into a series of binary variables, one for
+each category of the original variable. A phylogenetic topology was generated based on published studies (Pieridae: Pollock et al. 1998; Braby et al. 2006; Lycaenidae: Pierce et al. 2002; Pech et al. 2004; Nymphalidae: Brower 2000; Wahlberg et al.
+2003; Freitas and Brown 2004; All groups: García-Barros 2000; Wahlberg et al. 2005). In the absence of data describing branch lengths, all branches were assigned a length of one, assuming punctuational evolution (Bro-Jørgensen 2007). We inserted
+small branches of length 0.0001 in to polytomous clades. The phylogenetic tree was constructed in TreeView 1.6.6 (Page 1996) and modified using Mesquite 1.12 (Maddison and Maddison 2007). The independent contrasts were calculated using Compare
+Version 4.6b (Martins 2004). &lt;br&gt;
+Statistical analysis &lt;br&gt;
+We arc-sin transformed model-accuracy measures (both AUC values and deviance explained) to meet assumptions of normality where appropriate. The effects of species characteristics on model accuracy were assessed using analyses of covariance; these
+analyses took AUC values and deviances explained by the models as the dependent variables, respectively. The six species characteristics were considered as independent variables. Preliminary analysis suggested that two-way interactions did not
+have a significant effect on model accuracy, so these were excluded from the final analyses. &lt;br&gt;
+We used a model selection method based on the approach recommended by Burnham and Anderson (2002). First, we built a global model with all six terms, and candidate models with every combination of terms. AIC scores were extracted for each model
+and the difference between a model’s AIC value and the lowest value of all models (the AIC difference, Δi) was calculated. Model weight was calculated using the following formula (Burnham and Anderson 2002): &lt;br&gt;
+where Δi is the AIC difference of the model in question and Δrs are the AIC differences of the other models. The relative importance of each variable was assessed by summing the AIC weights of all candidate models containing it (Burnham and
+Anderson 2002), hereafter referred to as the ‘sum of AIC weights’. To test the effect of including species with very small numbers of presence records on the conclusions drawn, we repeated the same analyses considering only the 22 species with
+more than 20 unique presence records. &lt;br&gt;
+Relationships among independent contrasts for model accuracy measures and species characteristics were analysed using Pearson’s correlation tests. &lt;br&gt;
+All statistical tests were carried out in SPSS Version 15.0 and R Version 2.6.1 (R Development Core Team 2004). &lt;br&gt;
+Results &lt;br&gt;
+Models were generally accurate, attaining a mean AUC value of 0.83 ± 0.015 and explained a mean deviance in species occurrence of 23.31 ± 2.98. Predicted range size within Egypt had a strong negative effect on model performance, using both AUC
+values (sum of AIC weights = 0.921; Table 1; Fig. 1a) and deviances explained by the models (sum of AIC weights = 0.997; Table 2; Fig. 1b) as measures of model accuracy. World range also had a strong negative effect on model accuracy, measured
+using both AUC values (sum of AIC weights = 0.733; Table 1; Fig. 1c) and the deviance explained by the models (sum of AIC weights = 0.988; Table 2; Fig. 1d). World range and range within Egypt did not correlate significantly with one another
+(Spearman rank correlation: rs = 0.120, n = 40, P &amp;gt; 0.05). There was limited support for an effect on model accuracy of the number of presence records used to build models (sum of AIC weights = 0.347 and 0.453, for AUC values and deviances
+explained by models, respectively), migratory behaviour (sum of AIC weights = 0.382 and 0.224), host-plant specificity (sum of AIC weights = 0.316 and 0.318) or habitat tolerance (sum of AIC weights = 0.302 and 0.411). Considering only species
+with more than 20 unique presence records did not qualitatively alter the results, although migratory behaviour appeared to be a more important determinant of model accuracy in these analyses (Tables 3, 4 in Appendix). &lt;br&gt;
+Results of a set of general linear models testing the effect of species characteristics on the accuracy of species distribution models for 40 Egyptian butterfly species, measured using the AUC statistic &lt;br&gt;
+Characteristics tested were: the number of presence records used to build models (P), migratory behaviour (M), host-plant specificity (S), predicted range size in Egypt &amp;reg;, world range size (W) and habitat tolerance (H). Candidate models were
+built with every possible combination of terms. These models were compared using the approach recommended by Burnham and Anderson (2002), by calculating AIC values for each model, the difference between the AIC for a model and the minimum AIC for
+all models (Δi), and model weights based on these values. We only present the best models (Δi ≤ 2) here &lt;br&gt;
+Effect of species characteristics on model accuracy. Accuracy was measured using both the AUC statistic and the deviance explained by the models. Species characteristics that had a significant effect on model accuracy are shown: predicted range
+within Egypt (a, b) and world range (c, d). With the exception of the effect of predicted range size within Egypt on AUC scores, all relationships remained significant after accounting for species relatedness using independent contrasts &lt;br&gt;
+Results of a set of general linear models testing the effect of species characteristics on the accuracy of species distribution models for 40 Egyptian butterfly species, measured as the deviance explained by the models &lt;br&gt;
+Characteristics tested were: the number of presence records used to build models (P), migratory behaviour (M), host-plant specificity (S), predicted range size in Egypt &amp;reg;, world range size (W) and habitat tolerance (H). Candidate models were
+built with every possible combination of terms. These models were compared using the approach recommended by Burnham and Anderson (2002), by calculating AIC values for each model, the difference between the AIC for a model and the minimum AIC for
+all models (Δi), and model weights based on these values. We only present the best models (Δi ≤ 2) here &lt;br&gt;
+When species relatedness was accounted for using independent contrasts, world range still showed a significant negative relationship with model accuracy, estimated using both AUC (rp = −0.323, N = 39, P = 0.045) and deviance explained by the
+models (rp = −0.478, N = 39, P = 0.002). Predicted range within Egypt showed a significant negative relationship with deviance explained by the models (rp = −0.394, N = 39, P = 0.013), but not with average AUC score (rp = −0.110, N = 39, P =
+0.506). All other characteristics tested did not have a significant effect on model accuracy after accounting for the relatedness of species (−0.241 ≤ rp ≤ 0.172, N = 39, P &amp;gt; 0.05). &lt;br&gt;
+Discussion &lt;br&gt;
+Our results confirm that characteristics of species can strongly affect model accuracy, although the factors considered explained a relatively small proportion of the variation in accuracy measures. Of the six characteristics that we tested, two
+had consistent significant effects on model performance. Disentangling causal mechanisms for patterns such as these is difficult because range size shows relationships with abundance and occupancy (Gaston et al. 2000), and also with ecological
+characteristics of species, such as dispersal ability and niche breadth (Beck and Kitching 2007). However, our results are consistent with hypothesised relationships between range size and the accuracy of distribution models. &lt;br&gt;
+Species with large local range sizes had less accurate models than those with small range sizes. This is consistent with the results of other studies (Stockwell and Peterson 2002; Brotons et al. 2004; Segurado and Araújo 2004; Hernandez et al.
+2006). Species with small ranges included both desert species and species inhabiting the Nile Valley and Delta, thus the effect of range size was not an artefact of certain habitats containing better-modelled species. Some authors have suggested
+that species with smaller ranges have better-defined habitat requirements, making them easier to model (Brotons et al. 2004; Hernandez et al. 2006). However, contrary to the findings of other studies (Boone and Krohn 1999; Pearce et al. 2001;
+Kadmon et al. 2003; Berg et al. 2004), we found no evidence of an effect of habitat tolerance on the accuracy of species distribution models. A similar study to our own, comparing model accuracy among butterfly species in a temperate environment
+(Pöyry et al. 2008), also found no effect of niche breadth. Therefore, it would seem that other characteristics of butterfly species may be more important in determining the accuracy of butterfly distribution models, or that aspects of niche
+breadth that determine model accuracy are not captured by the measures used. &lt;br&gt;
+It has been suggested that the AUC statistic may be biased in favour of species that occupy a small proportion of the study area (Lobo et al. 2008), which may explain the existence of negative relationships between range size and model accuracy.
+However, in our study, the effect of range size was the same for two independent measures of model accuracy, suggesting that the relationship was not an artefact associated with use of the AUC statistic. More generally, the use of pseudo-absences
+may affect measures of model accuracy (VanDer Wal et al. 2009) and thus relationships between range size and model accuracy. However, we found a strong effect of both global and local range size on model accuracy. While the effect of local range
+size may be affected by statistical artefacts, the effect of global range size should not. &lt;br&gt;
+Species with larger ranges may be modelled less accurately because the study area contains discrete populations that show different responses to the environment (Stockwell and Peterson 2002; Brotons et al. 2004). Although some studies suggest that
+niches are highly evolutionarily conserved (Peterson et al. 1999), others have found that organisms can adapt their niches very rapidly in certain situations (Knouft et al. 2006). The existence of different populations within species that respond
+differently to the environment is certainly possible in our study; at least two butterfly species (Carcharodus stauderi and Spialia doris) are known to be represented by two sub-species in Egypt (Gilbert and Zalat 2007). Furthermore, the Nile
+River, Suez Canal and the mountains of the Eastern and Sinai Deserts may present dispersal barriers for some species, causing isolation of populations. &lt;br&gt;
+Global range size also had a strong effect on the accuracy of our models. Predictions for endemic, near-endemic and restricted-range species were better than those for more widespread species. This has been shown before for birds (McPherson and
+Jetz 2007), and recently for butterflies (Marmion et al. 2008). It has been suggested that endemic species are modelled more accurately because the environmental gradients that they inhabit have been completely sampled, whereas only part of the
+total inhabited environmental space is sampled for non-endemics (McPherson and Jetz 2007). Alternatively, the effect of global range may be brought about by similar mechanisms to the effect of local range size, i.e. larger-ranged species having
+locally-adapted populations (e.g. Stockwell and Peterson 2002) or having broader habitat requirements that are more difficult to model (e.g. Hernandez et al. 2006). &lt;br&gt;
+Previous studies have suggested that the distributions of specialist species are better modelled than those of generalist species (Hepinstall et al. 2002; Segurado and Araújo 2004; Elith et al. 2006). Ours is the first study to test for this
+effect in butterflies, and we find little evidence that specialists and generalists differ in the accuracy of their distribution models. Butterflies are dependent on certain plant species as host plants and the distribution of these plants can
+strongly affect the distribution of the butterflies (Araújo and Luoto 2007, but see Quinn et al. 1998). Therefore, it may be the identity, rather than the number, of host plants that affects the accuracy of butterfly distribution models. If the
+distribution of a butterfly’s host plant is largely determined by climate and habitat, then we might expect that a model for the butterfly that is based on climate and habitat variables will be more accurate than if the host-plant’s distribution
+is determined by other factors. &lt;br&gt;
+Few studies have considered the effect of migratory behaviour on the accuracy of species distribution models and these have focused on bird species, generally finding that migrant species are modelled less accurately than resident species (Pearce
+et al. 2001; McPherson and Jetz 2007). If anything, partial migrants had the least accurate models in this study. One possible explanation is that the distributions of both residents and migrants are strongly determined by environmental variables,
+but that each responds slightly differently to those variables. If partially-migratory species consist of separate populations of migrants and residents, then their distribution models will be less accurate than species that are entirely migratory
+or entirely resident and respond consistently to the environmental variables. Given the weak trend suggested in our data, more work is needed to explore this phenomenon further. &lt;br&gt;
+Several authors have reported a significant effect of sample size on model accuracy (Pearce and Ferrier 2000b; Stockwell and Peterson 2002; Phillips et al. 2004; Hernandez et al. 2006), although this effect has been shown to vary among modelling
+techniques. In this study we used Maxent to build our models and found no relationship between sample size and model performance. This supports the results of other studies that have shown that Maxent is generally robust to variation in sample
+size and that it produces accurate predictions even with very small samples (e.g. Hernandez et al. 2008). Most studies of the effects of sample size on model performance (Pearce and Ferrier 2000b; Stockwell and Peterson 2002; Phillips et al. 2004;
+Hernandez et al. 2006) have experimentally altered sample sizes for one species. We tested the effect of the available sample size across many species. It may be that the completeness of sampling with respect to the environmental gradients rather
+than sample size alone is most important in determining model accuracy, although Kadmon et al. (2003) found that distribution-model accuracy decreased with the completeness of sampling with respect to climatic gradients. &lt;br&gt;
+It is important to account for the effect of species relatedness in comparisons of models across species; otherwise, false conclusions may be drawn regarding the effect of some species characteristics on model accuracy, as is the case in other
+comparative studies (e.g. Harvey and Pagel 1991). Although accounting for species relatedness had no effect on the conclusions of this study, species distributions, and also some of the species characteristics tested, are known to be
+evolutionarily conserved (Jablonski 1987; Peterson et al. 1999; Hunt et al. 2005). &lt;br&gt;
+The results have important consequences, both for species distribution modelling itself and for conservation biology more generally. It is important to understand why models for different species perform differently before using them to make
+conservation decisions. This is the first test of differences in accuracy among distribution models of butterflies in an arid environment. The results are generally consistent with those of similar studies of butterflies in other parts of the
+world, although we present the first test of the effects of migratory behaviour and host-plant specialism on the accuracy of models for butterfly species. It is important to note that the factors that determine species distributions vary according
+to the scale of analysis (Whittaker et al. 2001), and thus the characteristics of species that affect distribution-model accuracy may also differ. We also emphasise that it is important to control for phylogeny when conducting cross-species
+comparisons like this one. Although there was substantial variation among species in model accuracy, accurate models were produced for many species, confirming the value of such models in conservation ecology. &lt;br&gt;
+Acknowledgments &lt;br&gt;
+We thank Italian Cooperation (Debt Swap) for funding the BioMAP Project, Dr. Mustafa Fouda (Director of the Nature Conservation Sector, EEAA) for facilities and comments on the work, all the BioMAP staff (Ahmed Yakoub, Alaa Awad, Muhammed Sherif,
+Shama Omran, Shaimaa Esa, Yasmin Safwat, Nahla Ahmed, Esraa Sabre), Dr. Abd El Aal Attia for help during dataset preparation and preliminary analysis. Two anonymous reviewers made valuable comments on an earlier draft of this paper. This work was
+supported by the Natural Environment Research Council (grant number NER/S/A/2006/14170). &lt;br&gt;
+To check that our conclusions were not biased by including species with very small numbers of presence records, we repeated the analyses of the effect of characteristics of species on distribution model accuracy, considering only species with at
+least 20 unique presence records. See Tables 3 and 4. &lt;br&gt;
+Results of a set of general linear models testing the effect of species characteristics on the accuracy of species distribution models for 22 Egyptian butterfly species with at least 20 unique presence records, measured using the AUC statistic &lt;br&gt;
+Characteristics tested were: the number of presence records used to build models (P), migratory behaviour (M), host-plant specificity (S), predicted range size in Egypt &amp;reg;, world range size (W) and habitat tolerance (H). Candidate models were
+built with every possible combination of terms. These models were compared using the approach recommended by Burnham and Anderson (2002), by calculating AIC values for each model, the difference between the AIC for a model and the minimum AIC for
+all models (Δi), and model weights based on these values. We only present the best models (Δi ≤ 2) here &lt;br&gt;
+Results of a set of general linear models testing the effect of species characteristics on the accuracy of species distribution models for 22 Egyptian butterfly species with at least 20 unique presence records, measured as the deviance explained
+by the models &lt;br&gt;
+Characteristics tested were: the number of presence records used to build models (P), migratory behaviour (M), host-plant specificity (S), predicted range size in Egypt &amp;reg;, world range size (W) and habitat tolerance (H). Candidate models were
+built with every possible combination of terms. These models were compared using the approach recommended by Burnham and Anderson (2002), by calculating AIC values for each model, the difference between the AIC for a model and the minimum AIC for
+all models (Δi), and model weights based on these values. We only present the best models (Δi ≤ 2) here &lt;br&gt;
+&lt;/div&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

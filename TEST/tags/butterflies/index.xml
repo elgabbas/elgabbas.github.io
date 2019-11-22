@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Butterflies | Ahmed El-Gabbas</title>
+    <link>/tags/butterflies/</link>
+      <atom:link href="/tags/butterflies/index.xml" rel="self" type="application/rss+xml" />
+    <description>Butterflies</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018 - 2019 Ahmed El-Gabbas</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Butterflies</title>
+      <link>/tags/butterflies/</link>
+    </image>
+    
+    <item>
+      <title>Spatial conservation prioritisation in data-poor countries: a quantitative sensitivity analysis</title>
+      <link>/publication/_elgabbas_etal_scp/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/_elgabbas_etal_scp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reliability of species distribution modelling for wildlife conservation in developing countries</title>
+      <link>/publication/2018_elgabbas_phd/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/2018_elgabbas_phd/</guid>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Main Supervisor:&lt;/strong&gt;&lt;br&gt;&lt;a href=&#34;https://www.biom.uni-freiburg.de/mitarbeiter/dormann&#34; title=&#34;Prof. Carsten F. Dormann&#34; target=&#34;_blank&#34;&gt;Prof. Carsten F. Dormann&lt;/a&gt;&lt;br&gt;Department of Biometry and Environmental System Analysis, University of Freiburg, Germany&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Second Supervisor:&lt;/strong&gt;&lt;br&gt;&lt;a href=&#34;http://ecology.nottingham.ac.uk/~plzfg/&#34; title=&#34;Prof. Francis Gilbert&#34; target=&#34;_blank&#34;&gt;Prof. Francis Gilbert&lt;/a&gt;&lt;br&gt; School of Life Sciences, Nottingham University, Nottingham, UK.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Butterflies of Egypt: atlas, Red Data listing and conservation</title>
+      <link>/publication/2008_-bassiouny_butterflies_egypt/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/2008_-bassiouny_butterflies_egypt/</guid>
+      <description>
+
+&lt;blockquote&gt;
+&lt;h4 id=&#34;my-contribution&#34;&gt;&lt;strong&gt;My contribution:&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;Mapping, Distribution models, and Red Data assessments.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

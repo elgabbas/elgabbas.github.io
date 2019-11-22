@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Ahmed El-Gabbas</title>
+    <link>/authors/</link>
+      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018 - 2019 Ahmed El-Gabbas</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>/authors/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>/authors/admin/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/admin/</guid>
+      <description>&lt;p&gt;[SOME TEXT GOES HERE]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Carsten F. Dormann</title>
+      <link>/authors/carsten-f.-dormann/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/carsten-f.-dormann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Francis Gilbert</title>
+      <link>/authors/francis-gilbert/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/authors/francis-gilbert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Samy Zalat</title>
+      <link>/authors/samy-zalat/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/samy-zalat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sherif Baha El Din</title>
+      <link>/authors/sherif-baha-el-din/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/authors/sherif-baha-el-din/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mohammad Ibrahim Bassiouny</title>
+      <link>/authors/mohammad-ibrahim-bassiouny/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/authors/mohammad-ibrahim-bassiouny/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tim Newbold</title>
+      <link>/authors/tim-newbold/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/authors/tim-newbold/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tim Reader</title>
+      <link>/authors/tim-reader/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/authors/tim-reader/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wael M. Shohdi</title>
+      <link>/authors/wael-m.-shohdi/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/authors/wael-m.-shohdi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wiebke Berg</title>
+      <link>/authors/wiebke-berg/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/authors/wiebke-berg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Patrick Brading</title>
+      <link>/authors/patrick-brading/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      <guid>/authors/patrick-brading/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

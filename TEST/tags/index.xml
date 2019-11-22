@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags | Ahmed El-Gabbas</title>
+    <link>/tags/</link>
+      <atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tags</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2018 - 2019 Ahmed El-Gabbas</copyright><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Tags</title>
+      <link>/tags/</link>
+    </image>
+    
+    <item>
+      <title>bats</title>
+      <link>/tags/bats/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/bats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Butterflies</title>
+      <link>/tags/butterflies/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/butterflies/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conservation</title>
+      <link>/tags/conservation/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/conservation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Egypt</title>
+      <link>/tags/egypt/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/egypt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Elastic net</title>
+      <link>/tags/elastic-net/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/elastic-net/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mammals</title>
+      <link>/tags/mammals/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/mammals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maxent</title>
+      <link>/tags/maxent/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/maxent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>point-process models</title>
+      <link>/tags/point-process-models/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/point-process-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/tags/publications/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reptiles</title>
+      <link>/tags/reptiles/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/reptiles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sampling bias</title>
+      <link>/tags/sampling-bias/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/sampling-bias/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Species Distribution Models</title>
+      <link>/tags/species-distribution-models/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/tags/species-distribution-models/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>plot</title>
+      <link>/tags/plot/</link>
+      <pubDate>Fri, 22 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/plot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Markdown</title>
+      <link>/tags/r-markdown/</link>
+      <pubDate>Fri, 22 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/r-markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>regression</title>
+      <link>/tags/regression/</link>
+      <pubDate>Fri, 22 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/tags/regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial Conservation Prioritization</title>
+      <link>/tags/spatial-conservation-prioritization/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/spatial-conservation-prioritization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theses</title>
+      <link>/tags/theses/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/theses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zonation</title>
+      <link>/tags/zonation/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/tags/zonation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep Learning</title>
+      <link>/tags/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demo</title>
+      <link>/tags/demo/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/demo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Climate Change</title>
+      <link>/tags/climate-change/</link>
+      <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>/tags/climate-change/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contribution In Books</title>
+      <link>/tags/contribution-in-books/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>/tags/contribution-in-books/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
