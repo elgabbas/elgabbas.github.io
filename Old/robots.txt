@@ -1,0 +1,60 @@
+User-Agent: *
+Disallow: /Publications/El-Gabbas & Dormann 2018 - Ecography_SI.pdf
+Disallow: /Publications/El-Gabbas_etal_2016_Conserving Egypt reptiles under climate change.pdf
+Disallow: /Publications/El-Gabbas_etal_2016_Conserving Egypt reptiles under climate change_supp.pdf
+Disallow: /Publications/El-Gabbas_etal_2016_Conserving%20Egypt%20reptiles%20under%20climate%20change_supp.pdf
+Disallow: /Publications/Newbold_etal_2009_Effect of characteristics of butterfly species on the accuracy of distribution models in an arid environment.pdf
+Disallow: /Publications/Newbold_etal_2009_Climate-based models of spatial patterns of species richness in Egypt butterfly and mammal fauna.pdf
+Disallow: /Publications/El-Gabbas_Gilbert_2016_The Desert Beauty Calopieris eulimene - a butterfly new to Egypt.pdf
+Disallow: /Publications/Brading_etal_2009_Biodiversity economics - the value of pollination services to Egypt.pdf
+Disallow: /Publications/El-Gabbas %26 Dormann 2018 - Ecology and Evolution.pdf
+Disallow: /Publications/El-Gabbas & Dormann 2018 - Ecology and Evolution.pdf
+Disallow: /Publications/El-Gabbas %26 Dormann 2018 - Ecology and Evolution_SI.pdf
+Disallow: /Publications/El-Gabbas & Dormann 2018 - Ecology and Evolution_SI.pdf
+Disallow: /Publications/El-Gabbas%20&%20Dormann%202018%20-%20Ecology%20and%20Evolution_SI.pdf
+Disallow: /Publications/El-Gabbas_Dormann_Ecography_2017.pdf
+Disallow: /Publications/El-Gabbas&Dormann_2017.pdf
+Disallow: /Publications/Brading_etal_2009.pdf
+Disallow: /Publications/Newbold_etal_2009_JournalofBiogeography_supp.pdf
+Disallow: /Publications/El-Gabbas%20%26%20Dormann%202018%20-%20Ecography_SI.pdf
+Disallow: /Publications/El-Gabbas_etal_2016_JAridEnvironments.html
+Disallow: /Publications/Brading_etal_2009.html
+Disallow: /Publications/El-Gabbas_Gilbert_2016_ZoologyMiddleEast.html
+Disallow: /Publications/Newbold_etal_2009_BiodiversityConservation.html
+Disallow: /Publications/Newbold_etal_2009_Biogeography.html
+Disallow: /index2.html
+Disallow: /index00.html
+Disallow: /Publications/Newbold_etal_2010.pdf
+Disallow: /Publications/Newbold_etal_2009_BiodiversConser.pdf
+Disallow: /Publications/El-Gabbas_etal_2016_supp.pdf
+Disallow: /Publications/El-Gabbas&Dormann_2018_Ecology_and_Evolution.pdf
+Disallow: /Publications/El-Gabbas_etal_2016.pdf
+Disallow: /Publications/Newbold_etal_2010_Testing the accuracy of species distribution models using species records from a new field survey.pdf
+Disallow: /Publications/El-Gabbas_Gilbert_2016.pdf
+Disallow: /Publications/Newbold_etal_2009_JournalofBiogeography.pdf
+Disallow: /Publications/El-Gabbas & Dormann2018 - Ecology and Evolution.pdf
+
+Allow: /index.html
+Allow: /Publications/Brading_etal_2009_EgyJBiology.html
+Allow: /Publications/Brading_etal_2009_EgyJBiology.pdf
+Allow: /Publications/El-Gabbas_2012_MRes_thesis.pdf
+Allow: /Publications/El-Gabbas_Dormann_2018_EcoEvol.html
+Allow: /Publications/El-Gabbas_Dormann_2018_EcoEvol.pdf
+Allow: /Publications/El-Gabbas_Dormann_2018_EcoEvol_SI.pdf
+Allow: /Publications/El-Gabbas_Dormann_2018_Ecography.html
+Allow: /Publications/El-Gabbas_Dormann_2018_Ecography_SI.pdf
+Allow: /Publications/El-Gabbas_Gilbert_2016_ZoolMiddleEast.html
+Allow: /Publications/El-Gabbas_Gilbert_2016_ZoolMiddleEast.pdf
+Allow: /Publications/El-Gabbas_etal_2016_JAridEnvir.html
+Allow: /Publications/El-Gabbas_etal_2016_JAridEnvir.pdf
+Allow: /Publications/El-Gabbas_etal_2016_JAridEnvir_SI.pdf
+Allow: /Publications/Newbold_etal_2009_BiodiversConserv.html
+Allow: /Publications/Newbold_etal_2009_BiodiversConserv.pdf
+Allow: /Publications/Newbold_etal_2009_JBiogeogr.html
+Allow: /Publications/Newbold_etal_2009_JBiogeogr.pdf
+Allow: /Publications/Newbold_etal_2009_JBiogeogr_SI.pdf
+Allow: /Publications/Newbold_etal_2010_Oikos.html
+Allow: /Publications/Newbold_etal_2010_Oikos.pdf
+Allow: /Publications/El-Gabbas_Dormann_2018_Ecography.pdf
+
+Sitemap: https://elgabbas.github.io/sitemap.xml
